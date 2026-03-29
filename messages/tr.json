@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "title": "SultanaExpress — Türk Üreticileri İçin B2B Pazar Yeri",
+    "description": "SultanaExpress: Uluslararası alıcıları doğrulanmış Türk tekstil üreticileriyle buluşturan B2B pazar yeri. Teklif sistemi, fiyat karşılaştırma, anlık mesajlaşma, sipariş takibi. Ücretsiz kayıt."
+  },
+  "nav": {
+    "howItWorks": "Nasıl Çalışır",
+    "forBuyers": "Alıcılar İçin",
+    "forSuppliers": "Tedarikçiler İçin",
+    "pricing": "Fiyatlandırma",
+    "about": "Hakkımızda",
+    "blog": "Blog",
+    "getStarted": "Ücretsiz Başla",
+    "switchLang": "EN"
+  },
+  "hero": {
+    "badge": "2026 Lansmanı — Erken Erişim Açık",
+    "titleLine1": "Türkiye'nin En İyi",
+    "titleLine2": "Üreticilerinden Doğrudan Tedarik Edin.",
+    "subtitle": "Türkiye'den tekstil tedariki için özel olarak tasarlanmış B2B pazar yeri. GSM, lif kompozisyonu ve sertifikalara göre filtreleyin. Teklifleri yan yana karşılaştırın. Siparişleri fabrikadan deponuza kadar takip edin. Alıcılar için her zaman ücretsiz.",
+    "ctaBuyer": "Türk Üreticilere Göz Atın — Ücretsiz",
+    "ctaSupplier": "Ürünlerinizi Listeleyin — Ücretsiz",
+    "trustVerified": "Doğrulanmış Tedarikçiler",
+    "trustSecure": "Güvenli Ödemeler",
+    "trustGlobal": "Küresel Lojistik",
+    "trustResponse": "24 Saat İçinde Yanıt",
+    "statIndustries": "Sektör",
+    "statIndustriesValue": "4",
+    "statCountries": "Ulaşılan Ülke",
+    "statCountriesValue": "47",
+    "statLanguages": "Dil",
+    "statLanguagesValue": "5",
+    "statFees": "Alıcı Komisyonu",
+    "statFeesValue": "0%"
+  },
+  "problem": {
+    "badge": "Neden SultanaExpress",
+    "title": "Uluslararası B2B Tedarik Sistemi Bozuk",
+    "subtitle": "Türkiye'de güvenilir tedarikçi bulmak sonsuz fuarlar, cevaplanmayan e-postalar, dil engelleri ve sıfır fiyat şeffaflığı demek. Her iki taraf da daha iyisini hak ediyor.",
+    "buyerLabel": "Alıcılar İçin",
+    "buyerTitle": "Tedarikçi Bulmak Bir Kumar",
+    "buyerDesc": "İstanbul'a uçuyorsunuz, showroomları geziyorsunuz, kartvizit topluyorsunuz — ve sipariş vermeden önce kaliteyi, fiyatlandırmayı veya güvenilirliği doğrulamanın bir yolu yok.",
+    "supplierLabel": "Tedarikçiler İçin",
+    "supplierTitle": "Küresel Pazarlara Ulaşmak Pahalı",
+    "supplierDesc": "Fuarlar binlerce dolara mal oluyor. B2B platformları fahiş listeleme ücretleri alıyor. Ve ödeme yaptıktan sonra bile, nitelikli alıcıların ürünlerinizi bulacağının garantisi yok.",
+    "bothLabel": "Her İkisi İçin",
+    "bothTitle": "Şeffaflık Yok, Güven Yok",
+    "bothDesc": "Fiyatlandırma opak. İletişim e-posta, WhatsApp ve telefon arasında dağınık. Tüm tedarik döngüsünü yönetecek tek bir platform yok."
+  },
+  "features": {
+    "badge": "Platform",
+    "title": "Keşiften Teslimata, Hepsi Tek Yerde",
+    "subtitle": "SultanaExpress, keşiften teslimata kadar her şeyi yönetir. Doğrulanmış tedarikçilere göz atın, teklif isteyin, şartları müzakere edin, sipariş verin ve gönderileri takip edin.",
+    "verifiedTitle": "Doğrulanmış Tedarikçi Ağı",
+    "verifiedDesc": "Her tedarikçi fabrika denetimlerinden, belge doğrulamasından ve mali değerlendirmeden geçer. Performans seviyeleri kanıtlanmış sicilleri yansıtır.",
+    "rfqTitle": "Akıllı Teklif Talebi Sistemi",
+    "rfqDesc": "Tekstile özgü alanlarla detaylı Teklif Talepleri oluşturun — lif kompozisyonu, GSM ağırlığı, sertifikalar. Teklifleri alın ve otomatik puanlama ile karşılaştırın.",
+    "messagingTitle": "Gerçek Zamanlı Mesajlaşma",
+    "messagingDesc": "Dosya ekleri, okundu bilgisi ve yazıyor göstergeleri ile yerleşik mesajlaşma. Her görüşme, tam bağlam için RFQ veya siparişiyle bağlantılıdır.",
+    "comparisonTitle": "Teklif Karşılaştırma Matrisi",
+    "comparisonDesc": "Birden fazla tedarikçiden gelen teklifleri fiyat, teslimat süresi, ödeme koşulları ve kalite sertifikaları üzerinden karşılaştırın.",
+    "trackingTitle": "Sipariş Takibi",
+    "trackingDesc": "Her siparişi onaydan üretime, kargoya ve teslimata kadar takip edin. Faturaları, paketleme listelerini ve sertifikaları tek bir yerden yükleyin ve erişin.",
+    "analyticsTitle": "Analitik Panelleri",
+    "analyticsDesc": "Alıcılar harcama trendlerini, tedarikçi performansını ve sipariş geçmişini görür. Tedarikçiler gelir analitiğini, ürün performansını ve pazar talep sinyallerini görür."
+  },
+  "whyTurkey": {
+    "badge": "Stratejik Avantaj",
+    "title": "Akıllı Alıcılar Neden Türkiye'yi Tercih Ediyor",
+    "subtitle": "Türkiye 2023'te 255 milyar dolar ihracat yaparak dünyanın 7. büyük konfeksiyon ihracatçısı oldu. AB ile Gümrük Birliği, sıfır tarife, kısa nakliye süresi ve rekabetçi fiyatlandırma anlamına geliyor.",
+    "tariffValue": "0%",
+    "tariffTitle": "AB Gümrük Birliği Tarifeleri",
+    "tariffDesc": "Sanayi ürünleri Türkiye ve AB arasında sıfır gümrük vergisiyle hareket eder — daha düşük maliyetler, daha az gecikme, Asya'ya kıyasla basitleştirilmiş dokümantasyon.",
+    "deliveryValue": "2–5",
+    "deliveryTitle": "Gün İçinde Avrupa'ya Teslimat",
+    "deliveryDesc": "Türkiye, Avrupa ve Asya'nın kesişim noktasında. Kargolar karayoluyla 2-5 günde Avrupa'ya ulaşır; Çin'den deniz yoluyla 25-40 gün sürer.",
+    "factoriesValue": "10K+",
+    "factoriesTitle": "Tekstil Fabrikası",
+    "factoriesDesc": "Türkiye'nin tekstil endüstrisi, lif üretiminden hazır giyime kadar tüm değer zincirini kapsar — OEKO-TEX, GOTS ve ISO 9001 gibi uluslararası sertifikalarla."
+  },
+  "forBuyers": {
+    "badge": "Alıcılar İçin",
+    "title": "Doğru Tedarikçiyi Aylar Yerine Dakikalar İçinde Bulun",
+    "subtitle": "İster 500 tişört tedarik eden bir butik sahibi, ister 50.000 metre kumaş sipariş eden bir perakende zinciri olun, SultanaExpress size Türkiye'nin en iyi üreticilerine doğrudan erişim sağlar.",
+    "items": [
+      "Tekstil, moda, aksesuar ve ev eşyaları kategorilerinde binlerce ürüne göz atın",
+      "Kumaş kompozisyonu, GSM ağırlığı, MOQ, sertifikalar ve daha fazlasına göre filtreleyin",
+      "Tekstile özgü özelliklerle detaylı teklif talepleri oluşturun",
+      "Birden fazla teklifi otomatik puanlama ile alın ve karşılaştırın",
+      "Yerleşik mesajlaşma ile tedarikçilerle doğrudan müzakere edin",
+      "Siparişleri onaydan kapıya teslimata kadar takip edin",
+      "Favorileri kaydedin ve küratörlü tedarikçi koleksiyonları oluşturun"
+    ],
+    "cta": "Ücretsiz Tedarike Başlayın — Kredi Kartı Gerekmez"
+  },
+  "forSuppliers": {
+    "badge": "Tedarikçiler İçin",
+    "title": "Atölyenizden Ayrılmadan 25+ Ülkeye Ulaşın",
+    "subtitle": "Nitelikli uluslararası alıcılarla bağlantı kuran büyüyen Türk üreticileri ağına katılın. Ürünlerinizi listeleyin, teklif talepleri alın ve ihracat işinizi büyütün.",
+    "items": [
+      "Yeteneklerinizi ve sertifikalarınızı sergileyen doğrulanmış bir tedarikçi profili oluşturun",
+      "Detaylı özellikler, kademeli fiyatlandırma ve numune mevcudiyeti ile ürünleri listeleyin",
+      "Doğrulanmış alıcılardan nitelikli teklif talepleri alın — soğuk erişim gerekmez",
+      "Fiyatlandırma, kargo ve teslim süreleri için yerleşik hesaplayıcılarla teklifler gönderin",
+      "Durum takibi, belge yükleme ve ödeme izleme ile siparişleri yönetin",
+      "Ürün görüntülemeleri, sorgu oranları ve pazar trendlerini gösteren analitiğe erişin",
+      "Performans seviyeleri (Bronz'dan Platin'e) ile daha yüksek görünürlük kazanın"
+    ],
+    "cta": "Şirketinizi Ücretsiz Kaydedin"
+  },
+  "howItWorks": {
+    "badge": "Basit Süreç",
+    "title": "Kayıttan İlk Siparişe Bir Haftadan Kısa Sürede",
+    "subtitle": "Günler değil, dakikalar içinde başlayın.",
+    "steps": [
+      {
+        "title": "Hesabınızı Oluşturun",
+        "desc": "2 dakikadan kısa sürede ücretsiz kaydolun. Bize işletmenizi ve aradığınız şeyleri anlatın."
+      },
+      {
+        "title": "Keşfedin ve Bağlanın",
+        "desc": "Doğrulanmış tedarikçilere ve ürünlere göz atın. İhtiyacınız olanı tam olarak bulmak için gelişmiş filtreleri kullanın."
+      },
+      {
+        "title": "Teklif İsteyin ve Müzakere Edin",
+        "desc": "Detaylı özelliklerle teklif talepleri gönderin. Birden fazla tedarikçiden teklif alın. Karşılaştırın, karşı teklif verin ve şartları belirleyin."
+      },
+      {
+        "title": "Sipariş Verin ve Takip Edin",
+        "desc": "Ödeme korumasıyla sipariş verin. Üretim ve kargonuzu gerçek zamanlı takip edin. Tam dokümantasyon ile malları teslim alın."
+      }
+    ]
+  },
+  "mobileApp": {
+    "badge": "Mobil Uygulamalar",
+    "title": "Tedarik Zinciriniz Cebinizde",
+    "subtitle": "SultanaExpress, hem alıcılar hem de tedarikçiler için özel iOS ve Android uygulamalarına sahiptir. Yeni teklifler için anlık bildirimler alın, her yerden siparişleri yönetin ve ortaklarınızla gerçek zamanlı iletişim kurun.",
+    "buyerTitle": "Alıcı Uygulaması",
+    "buyerFeatures": [
+      "Barkod tarama ile ürünleri ve tedarikçileri keşfedin",
+      "Teklifler geldiğinde anlık bildirim alın",
+      "Favori tedarikçilerinize ve ürünlerinize çevrimdışı göz atın",
+      "İzlediğiniz ürünler için fiyat uyarıları ayarlayın",
+      "Geçmişten tek dokunuşla yeniden sipariş verin"
+    ],
+    "supplierTitle": "Tedarikçi Uygulaması",
+    "supplierFeatures": [
+      "Fotoğraf çekimi ile ürün kataloğunuzu yönetin",
+      "Teklif taleplerine doğrudan telefonunuzdan yanıt verin",
+      "Sipariş durumunu güncelleyin ve kargo belgelerini hareket halinde yükleyin",
+      "Satış analitiği ve pazar istihbaratını görüntüleyin",
+      "Biyometrik kimlik doğrulama ile güvenli erişim"
+    ],
+    "notifyText": "Uygulamalar yayınlandığında haberdar olun:",
+    "notifyPlaceholder": "E-posta adresinizi girin",
+    "notifyButton": "Erken Erişim Al"
+  },
+  "trust": {
+    "badge": "Güven ve Güvenlik",
+    "title": "Her Tedarikçi Doğrulanmış. Her İşlem Korumalı.",
+    "verifiedTitle": "Doğrulanmış Tedarikçiler",
+    "verifiedDesc": "Her üretici belge doğrulaması, ticari kayıt kontrolü ve yetenek değerlendirmesinden geçer. Performans seviyeleri tutarlı kaliteyi ödüllendirir.",
+    "verifiedBadges": ["İşletme Ruhsatı", "Vergi Kimliği", "Fabrika Denetimi"],
+    "certTitle": "Sektör Sertifikaları",
+    "certDesc": "Tekstilde önemli olan uluslararası tanınmış sertifikalara sahip tedarikçilere öncelik veriyoruz.",
+    "certBadges": ["OEKO-TEX 100", "GOTS", "ISO 9001", "GRS", "BSCI"],
+    "secureTitle": "Güvenli ve Uyumlu",
+    "secureDesc": "KVKK/GDPR uyumlu veri yönetimi. Şifreli iletişim. Güvenli ödeme işleme. Verileriniz ve işlemleriniz her adımda korunur.",
+    "secureBadges": ["GDPR", "Şifreli", "5 Dil"],
+    "logisticsTitle": "Yusen Logistics ile Küresel Lojistik",
+    "logisticsDesc": "Asya'nın en büyük tedarik zinciri şirketlerinden biri olan Yusen Logistics tarafından desteklenmektedir — 47 ülkede ofis. Türk fabrikalarından deponuza kapıdan kapıya teslimat."
+  },
+  "testimonials": {
+    "badge": "Ortaklarımız",
+    "title": "Türk Üreticileri SultanaExpress Hakkında Ne Diyor",
+    "items": [
+      {
+        "quote": "10 yılı aşkın süredir tişört, polo ve şort üretiyoruz. SultanaExpress bize fuar maliyeti olmadan Avrupa'daki alıcılara ulaşmak için doğrudan bir kanal sunuyor.",
+        "initials": "MB",
+        "name": "Mehmet Baran",
+        "company": "Andock Tekstil, İstanbul",
+        "exp": "10+ yıl deneyim"
+      },
+      {
+        "quote": "Sektörde 25 yıllık deneyimimle birçok platformun gelip gittiğini gördüm. SultanaExpress, tekstil işini anladığı için öne çıkıyor — özellikler, sertifikalar, teslim süreleri.",
+        "initials": "M",
+        "name": "Mustafa",
+        "company": "Norwich Tekstil, İstanbul",
+        "exp": "25+ yıl deneyim"
+      },
+      {
+        "quote": "SultanaExpress'in teklif talebi sistemi tam da ihtiyacımız olan şey. Detaylı özelliklerle nitelikli talepler alıyoruz, bu da daha az ileri-geri ve daha hızlı anlaşmalar demek.",
+        "initials": "A",
+        "name": "Ahmet",
+        "company": "Gülipek, İstanbul",
+        "exp": "20+ yıl deneyim"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Fiyatlandırma",
+    "title": "Şeffaf Fiyatlandırma. Gizli Ücret Yok.",
+    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium özellikler ve daha yüksek görünürlük için yükseltin.",
+    "tiers": [
+      {
+        "name": "Ücretsiz",
+        "price": "₺0",
+        "period": "/ ay",
+        "subtitle": "Başlamak için ideal",
+        "features": [
+          "Tüm ürünlere ve tedarikçilere göz atın",
+          "Ayda 3 teklif talebi oluşturun",
+          "Temel mesajlaşma",
+          "Standart tedarikçi profili",
+          "%5 platform komisyonu",
+          "E-posta desteği"
+        ],
+        "cta": "Sonsuza Kadar Ücretsiz Başlayın",
+        "featured": false
+      },
+      {
+        "name": "Gümüş",
+        "price": "$49",
+        "period": "/ ay",
+        "subtitle": "Büyüyen işletmeler için",
+        "popular": "En Popüler",
+        "features": [
+          "Ücretsiz plandaki her şey, artı:",
+          "Sınırsız teklif talebi",
+          "Teklif karşılaştırma matrisi",
+          "Analitikli gelişmiş profil",
+          "%3 platform komisyonu",
+          "Öncelikli destek"
+        ],
+        "cta": "Gümüş'ü 14 Gün Ücretsiz Deneyin",
+        "featured": true
+      },
+      {
+        "name": "Altın",
+        "price": "$149",
+        "period": "/ ay",
+        "subtitle": "Güçlü tüccarlar için",
+        "features": [
+          "Gümüş plandaki her şey, artı:",
+          "Özel hesap yöneticisi",
+          "Gelişmiş analitik ve pazar istihbaratı",
+          "Platin tedarikçi rozeti",
+          "%1 platform komisyonu",
+          "Telefon ve canlı sohbet desteği"
+        ],
+        "cta": "Ekibimizle Konuşun",
+        "featured": false
+      }
+    ]
+  },
+  "faq": {
+    "badge": "SSS",
+    "title": "Başlamadan Önce Bilmeniz Gereken Her Şey",
+    "items": [
+      {
+        "question": "SultanaExpress nedir?",
+        "answer": "SultanaExpress, uluslararası alıcıları doğrulanmış Türk üretici ve tedarikçileriyle buluşturan, öncelikli olarak tekstil, moda ve ilgili sektörlere odaklanan bir B2B pazar yeridir. Platform, ürün keşfinden teslimat takibine kadar tüm tedarik döngüsünü yönetir."
+      },
+      {
+        "question": "Kaydolmak ücretsiz mi?",
+        "answer": "Evet. Kayıt hem alıcılar hem de tedarikçiler için tamamen ücretsizdir. Alıcılar ürünlere göz atabilir, tedarikçileri arayabilir ve ayda 3 teklif talebi oluşturabilir. %5 komisyon yalnızca platform üzerinden bir işlem tamamlandığında uygulanır."
+      },
+      {
+        "question": "Tedarikçiler nasıl doğrulanıyor?",
+        "answer": "Her tedarikçi, ticari kayıt belgesi incelemesi, vergi kimliği doğrulaması, yetenek değerlendirmesi ve isteğe bağlı fabrika denetimi içeren çok aşamalı bir doğrulama sürecinden geçer. Tedarikçiler, işlem geçmişleri, yanıt süreleri ve alıcı puanlarına göre performans seviyeleri kazanır."
+      },
+      {
+        "question": "Hangi sektörleri kapsıyorsunuz?",
+        "answer": "Birincil odağımız tekstil ve modadır — giyim, kumaşlar, aksesuarlar ve ev tekstili. Ayrıca makine, elektronik, tarım ürünleri ve mobilya sektörlerine de hizmet veriyoruz."
+      },
+      {
+        "question": "Hangi ülkelere hizmet veriyorsunuz?",
+        "answer": "SultanaExpress dünya çapındaki alıcılara açıktır. Lojistik ortağımız Yusen Logistics 47 ülke ve 372 şehirde faaliyet göstermektedir. Platform şu anda İngilizce, Türkçe, Almanca, Fransızca ve İtalyanca desteklemektedir."
+      },
+      {
+        "question": "Teklif talebi sistemi nasıl çalışır?",
+        "answer": "Alıcılar, detaylı ürün özellikleriyle bir Teklif Talebi oluşturur. Teklif talebi ilgili tedarikçilere gönderilir. Alıcılar, puanlama matrisimizi kullanarak teklifleri yan yana karşılaştırabilir, şartları müzakere edebilir ve en iyi teklifi kabul edebilir."
+      },
+      {
+        "question": "Mobil uygulama var mı?",
+        "answer": "Evet! Hem alıcılar hem de tedarikçiler için yerel iOS ve Android uygulamaları mevcuttur. Mobil uygulamalar anlık bildirimler, çevrimdışı destek, barkod tarama ve web platformunun tüm temel özelliklerini içerir."
+      },
+      {
+        "question": "Minimum sipariş miktarları nedir?",
+        "answer": "Minimum sipariş miktarları tedarikçiye ve ürüne göre değişir. Her ürün listesi, tedarikçinin minimum sipariş miktarını içerir. Birçok tedarikçi, toplu satın alma taahhüdünden önce daha küçük miktarlarda numune siparişleri sunar."
+      },
+      {
+        "question": "Ödemeler nasıl çalışır? Emanet koruması var mı?",
+        "answer": "SultanaExpress tüm işlemler için emanet ödeme koruması sağlar. Fonlar, alıcı malların teslimini ve kalitesini onaylayana kadar güvenli bir şekilde tutulur. Bu, her iki tarafı da korur ve güven oluşturur."
+      },
+      {
+        "question": "Kusurlu ürün alırsam ne olur?",
+        "answer": "Uyuşmazlık çözüm sürecimiz alıcıları korur. Mallar üzerinde anlaşılan özelliklere uymuyorsa, bir anlaşmazlık açabilirsiniz. Ekibimiz, gerektiğinde iade dahil, adil bir çözüme ulaşmak için alıcı ve tedarikçi arasında arabuluculuk yapar."
+      },
+      {
+        "question": "Sipariş vermeden önce numune talep edebilir miyim?",
+        "answer": "Kesinlikle. Çoğu tedarikçi ürün numuneleri sunar. Toplu siparişe taahhüt etmeden önce platform üzerinden doğrudan numune talep edebilirsiniz. Her ürün sayfasında numune mevcudiyeti ve fiyatlandırması belirtilmektedir."
+      },
+      {
+        "question": "Gümrük ve ithalat vergilerini siz mi karşılıyorsunuz?",
+        "answer": "Lojistik ortağımız Yusen Logistics kargo sürecini yönetir. AB'deki alıcılar için, Türkiye'nin Gümrük Birliği çoğu sanayi ürününde sıfır tarife anlamına gelir. AB dışı destinasyonlar için, ekibimiz gümrük gereksinimleri ve dokümantasyonda yardımcı olabilir."
+      }
+    ]
+  },
+  "bottomCta": {
+    "title": "Bugün Daha Akıllı Tedarike Başlayın",
+    "subtitle": "Bugün SultanaExpress'e katılın ve doğrulanmış Türk tedarikçileriyle bağlantı kurmaya başlayın. Ücretsiz kayıt, kredi kartı gerekmez ve ilk üç teklif talebiniz bizden.",
+    "buyerTitle": "Ben Alıcıyım",
+    "buyerDesc": "Rekabetçi fiyatlarla kaliteli Türk ürünleri bulun.",
+    "buyerCta": "İlk Tedarikçinizi Bugün Bulun",
+    "supplierTitle": "Ben Tedarikçiyim",
+    "supplierDesc": "Nitelikli uluslararası alıcılara ulaşın ve ihracatınızı büyütün.",
+    "supplierCta": "Dünyaya Satmaya Başlayın",
+    "trustItems": [
+      "Kredi kartı gerekmez",
+      "Ücretsiz plan mevcut",
+      "5 dil desteği",
+      "KVKK/GDPR uyumlu"
+    ]
+  },
+  "footer": {
+    "tagline": "Küresel alıcıları Türk üretici ve tedarikçileriyle buluşturan önde gelen B2B pazar yeri.",
+    "platform": "Platform",
+    "platformLinks": {
+      "browseProducts": "Ürünlere Göz At",
+      "browseSuppliers": "Tedarikçilere Göz At",
+      "postRFQ": "Teklif Talebi Oluştur",
+      "compareQuotes": "Teklifleri Karşılaştır"
+    },
+    "resources": "Kaynaklar",
+    "resourceLinks": {
+      "howItWorks": "Nasıl Çalışır",
+      "pricing": "Fiyatlandırma",
+      "faq": "SSS",
+      "helpCenter": "Yardım Merkezi"
+    },
+    "company": "Şirket",
+    "companyLinks": {
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    },
+    "contact": "İletişim",
+    "location": "İstanbul, Türkiye",
+    "email": "sc@sultana.express",
+    "copyright": "© 2026 SultanaExpress. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları"
+  },
+  "pricingPage": {
+    "metaTitle": "Fiyatlandırma — SultanaExpress",
+    "metaDescription": "Alıcılar ve tedarikçiler için şeffaf fiyatlandırma. Ücretsiz kayıt, komisyon tabanlı model, gizli ücret yok.",
+    "badge": "Fiyat Planları",
+    "title": "İşletmenize Uygun Planı Seçin",
+    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium özellikler, düşük komisyon ve daha yüksek görünürlük için yükseltin.",
+    "comparisonTitle": "Detaylı Özellik Karşılaştırması",
+    "features": {
+      "productBrowsing": "Ürün ve Tedarikçi Tarama",
+      "rfqsPerMonth": "Aylık Teklif Talebi",
+      "quoteComparison": "Teklif Karşılaştırma Matrisi",
+      "messaging": "Gerçek Zamanlı Mesajlaşma",
+      "analytics": "Analitik Paneli",
+      "supplierProfile": "Tedarikçi Profili",
+      "accountManager": "Özel Hesap Yöneticisi",
+      "commission": "Platform Komisyonu",
+      "support": "Destek Seviyesi",
+      "priorityListing": "Öncelikli Listeleme",
+      "marketIntel": "Pazar İstihbarat Raporları",
+      "apiAccess": "API Erişimi"
+    },
+    "featureValues": {
+      "free": {
+        "productBrowsing": "Sınırsız",
+        "rfqsPerMonth": "3",
+        "quoteComparison": "Hayır",
+        "messaging": "Temel",
+        "analytics": "Temel",
+        "supplierProfile": "Standart",
+        "accountManager": "Hayır",
+        "commission": "%5",
+        "support": "E-posta",
+        "priorityListing": "Hayır",
+        "marketIntel": "Hayır",
+        "apiAccess": "Hayır"
+      },
+      "silver": {
+        "productBrowsing": "Sınırsız",
+        "rfqsPerMonth": "Sınırsız",
+        "quoteComparison": "Evet",
+        "messaging": "Tam (okundu bilgisi, dosyalar)",
+        "analytics": "Gelişmiş",
+        "supplierProfile": "Gelişmiş + Analitik",
+        "accountManager": "Hayır",
+        "commission": "%3",
+        "support": "Öncelikli E-posta",
+        "priorityListing": "Evet",
+        "marketIntel": "Aylık",
+        "apiAccess": "Hayır"
+      },
+      "gold": {
+        "productBrowsing": "Sınırsız",
+        "rfqsPerMonth": "Sınırsız",
+        "quoteComparison": "Evet",
+        "messaging": "Tam + Öncelikli Yönlendirme",
+        "analytics": "Gelişmiş + Dışa Aktarım",
+        "supplierProfile": "Platin Rozet",
+        "accountManager": "Evet",
+        "commission": "%1",
+        "support": "Telefon + Canlı Sohbet",
+        "priorityListing": "Öne Çıkan",
+        "marketIntel": "Haftalık + Özel",
+        "apiAccess": "Evet"
+      }
+    },
+    "calculatorTitle": "Komisyon Hesaplayıcı",
+    "calculatorDescription": "Aylık işlem hacminize göre her planla ne kadar tasarruf ettiğinizi görün.",
+    "calculatorMonthlyVolume": "Aylık İşlem Hacmi",
+    "calculatorPlanLabel": "Plan",
+    "calculatorCommission": "Komisyon",
+    "calculatorSubscription": "Abonelik",
+    "calculatorTotal": "Toplam Maliyet",
+    "calculatorSavings": "Ücretsiz plana göre {amount} tasarruf ediyorsunuz",
+    "pricingFaq": {
+      "title": "Fiyatlandırma SSS",
+      "items": [
+        {
+          "question": "Planları istediğim zaman değiştirebilir miyim?",
+          "answer": "Evet, planınızı istediğiniz zaman yükseltebilir veya düşürebilirsiniz. Yükseltmede yeni özellikler hemen etkinleşir. Düşürmede mevcut özellikleriniz fatura döneminin sonuna kadar devam eder."
+        },
+        {
+          "question": "Ücretli planlar için ücretsiz deneme var mı?",
+          "answer": "Evet! Gümüş plan 14 günlük ücretsiz deneme ile gelir. Altın plan, taahhüt etmeden önce ekibimizle kişiselleştirilmiş bir demo içerir."
+        },
+        {
+          "question": "Platform komisyonu nasıl hesaplanır?",
+          "answer": "Komisyon, platform üzerinden bir sipariş tamamlandığında toplam işlem değerinin yüzdesi olarak uygulanır. Ödeme sırasında otomatik olarak hesaplanır ve düşülür."
+        },
+        {
+          "question": "Gizli ücretler var mı?",
+          "answer": "Kesinlikle gizli ücret yoktur. Abonelik ücretiniz ve komisyon yüzdesi tek maliyetlerinizdir. Kargo ve lojistik maliyetleri ayrıdır ve şeffaftır."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "Hakkımızda — SultanaExpress",
+    "metaDescription": "SultanaExpress hakkında bilgi edinin — Türk üretimini dünyayla buluşturan B2B pazar yeri.",
+    "badge": "Hakkımızda",
+    "title": "Türk Üretimini Dünyayla Buluşturuyoruz",
+    "subtitle": "Uluslararası B2B ticareti basit, şeffaf ve herkes için erişilebilir kılan altyapıyı inşa ediyoruz.",
+    "missionTitle": "Misyonumuz",
+    "missionP1": "SultanaExpress, basit ama iddialı bir hedefle kuruldu: Türkiye'den uluslararası B2B tedarikteki sürtünmeyi ortadan kaldırmak. Her üreticinin — büyüklüğünden bağımsız olarak — küresel pazarlara erişimi ve her alıcının şeffaf, güvenilir tedarik seçenekleri hak ettiğine inanıyoruz.",
+    "missionP2": "Türkiye, yalnızca 10.000'den fazla tekstil fabrikasıyla dünyanın büyük üretim güçlerinden biridir. AB ile Gümrük Birliği anlaşması ve Avrupa ile Asya'yı birleştiren stratejik coğrafi konumuyla öne çıkar. Ancak Türk tedarikçileriyle bağlantı kurmak geleneksel olarak fuar ziyaretleri, soğuk erişim ve dil engellerini aşmayı gerektirmiştir.",
+    "missionP3": "Bunu değiştiriyoruz.",
+    "whatWeDoTitle": "Ne Yapıyoruz",
+    "whatWeDoIntro": "SultanaExpress, Türk üreticileriyle uluslararası ticaret için özel olarak tasarlanmış bir B2B pazar yeridir. Platformumuz tüm tedarik döngüsünü yönetir:",
+    "whatWeDoItems": [
+      { "title": "Tedarikçi Keşfi", "desc": "Detaylı profiller, sertifikalar ve performans derecelendirmeleriyle doğrulanmış üreticilere göz atın" },
+      { "title": "Akıllı Teklif Talebi Sistemi", "desc": "Sektöre özgü alanlarla detaylı Teklif Talepleri oluşturun ve rekabetçi teklifler alın" },
+      { "title": "Teklif Karşılaştırma", "desc": "Birden fazla tedarikçiden gelen teklifleri fiyat, kalite ve teslimat üzerinden otomatik puanlama ile karşılaştırın" },
+      { "title": "Gerçek Zamanlı İletişim", "desc": "Her RFQ ve siparişle bağlantılı yerleşik mesajlaşma" },
+      { "title": "Sipariş Yönetimi", "desc": "Siparişleri onaydan üretime, kargoya ve teslimata kadar takip edin" },
+      { "title": "Lojistik Entegrasyonu", "desc": "47 ülkede kapsama alanıyla Yusen Logistics tarafından desteklenmektedir" }
+    ],
+    "valuesTitle": "Değerlerimiz",
+    "values": [
+      { "title": "Şeffaflık", "desc": "Gizli ücret yok, opak fiyatlandırma yok. Her maliyet, her komisyon, her süreç adımı hem alıcılar hem de tedarikçiler tarafından görülebilir." },
+      { "title": "Güven", "desc": "Her tedarikçi doğrulamadan geçer. Performans seviyeleri tutarlılığı ödüllendirir. KVKK/GDPR uyumlu veri yönetimi herkesi korur." },
+      { "title": "Erişilebilirlik", "desc": "Herkes için ücretsiz kayıt. Beş dil desteği. Hareket halinde ticaret için mobil uygulamalar. Başlamak için engel yok." },
+      { "title": "Kalite", "desc": "Uluslararası tanınmış sertifikalara sahip tedarikçilere öncelik veriyoruz — OEKO-TEX, GOTS, ISO 9001, GRS ve BSCI." }
+    ],
+    "industriesTitle": "Odak Sektörlerimiz",
+    "industriesIntro": "Platformumuz birden fazla sektörü desteklese de, derin uzmanlığımız şu alanlarda:",
+    "industries": [
+      { "title": "Tekstil ve Moda", "desc": "Giyim, kumaşlar, aksesuarlar, ev tekstili" },
+      { "title": "Makine ve Ekipman", "desc": "Endüstriyel makine, üretim ekipmanları" },
+      { "title": "Elektronik", "desc": "Tüketici elektroniği ve bileşenler" },
+      { "title": "Tarım", "desc": "Türk tarım ürünleri ve gıda işleme" }
+    ],
+    "contactTitle": "İletişime Geçin",
+    "contactText": "Sizden haber almak isteriz — ister güvenilir Türk tedarikçiler arayan bir alıcı, ister küresel olarak genişlemeye hazır bir üretici veya iş birliğiyle ilgilenen bir ortak olun.",
+    "contactCta": "Ekibimizle iletişime geçin"
+  },
+  "privacyPage": {
+    "metaTitle": "Gizlilik Politikası — SultanaExpress",
+    "metaDescription": "SultanaExpress Gizlilik Politikası — kişisel verilerinizi nasıl topluyoruz, kullanıyoruz ve koruyoruz.",
+    "badge": "Yasal",
+    "title": "Gizlilik Politikası",
+    "subtitle": "Kişisel bilgilerinizi nasıl topluyor, kullanıyor ve koruyoruz.",
+    "lastUpdated": "Son güncelleme: Mart 2026",
+    "sections": [
+      {
+        "title": "1. Giriş",
+        "content": "SultanaExpress (\"Şirket\", \"biz\") gizliliğinizi korumaya kararlıdır. Bu Gizlilik Politikası, B2B pazar yeri platformumuzu (\"Platform\") kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.\n\nGenel Veri Koruma Yönetmeliği (GDPR), Kişisel Verilerin Korunması Kanunu (KVKK) ve diğer uygulanabilir veri koruma yasalarına uyuyoruz."
+      },
+      {
+        "title": "2. Topladığımız Bilgiler",
+        "content": "**2.1 Sağladığınız Bilgiler**\n\n- **Hesap Bilgileri:** Ad, e-posta, telefon numarası, şirket adı, unvan ve iş adresi\n- **Profil Bilgileri:** Şirket açıklaması, ürün kategorileri, sertifikalar ve iş yetenekleri\n- **İşlem Verileri:** Teklif talebi detayları, teklifler, sipariş bilgileri ve ödeme kayıtları\n- **İletişimler:** Platform üzerinden değiştirilen mesajlar, destek talepleri ve geri bildirimler\n- **Doğrulama Belgeleri:** Ticari sicil, vergi kimliği ve sertifika belgeleri (tedarikçiler için)\n\n**2.2 Otomatik Olarak Toplanan Bilgiler**\n\n- **Kullanım Verileri:** Ziyaret edilen sayfalar, kullanılan özellikler, arama sorguları\n- **Cihaz Bilgileri:** Tarayıcı türü, işletim sistemi, cihaz tanımlayıcıları ve IP adresi\n- **Çerezler:** Oturum çerezleri, tercih çerezleri ve analitik çerezleri"
+      },
+      {
+        "title": "3. Bilgilerinizi Nasıl Kullanıyoruz",
+        "content": "Toplanan bilgileri aşağıdaki amaçlarla kullanıyoruz:\n\n- **Platform İşletimi:** Platform özelliklerini ve hizmetlerini sağlamak, sürdürmek ve geliştirmek\n- **Hesap Yönetimi:** Hesabınızı oluşturmak, yönetmek, kimliğinizi doğrulamak ve işlemleri gerçekleştirmek\n- **İletişim:** İşlemsel bildirimler göndermek, sorulara yanıt vermek ve destek sağlamak\n- **Eşleştirme:** Alıcıları ürün kategorileri ve gereksinimlerine göre ilgili tedarikçilerle buluşturmak\n- **Analitik:** Kullanım kalıplarını anlamak ve kullanıcı deneyimini iyileştirmek\n- **Güvenlik:** Dolandırıcılık, kötüye kullanım ve yetkisiz erişimi tespit etmek ve önlemek"
+      },
+      {
+        "title": "4. İşlemenin Yasal Dayanağı (GDPR)",
+        "content": "Kişisel verileri aşağıdaki yasal dayanaklar temelinde işliyoruz:\n\n- **Sözleşme İfası:** Hizmetlerimizi sağlamak için gerekli işleme\n- **Meşru Menfaatler:** Haklarınız tarafından geçersiz kılınmadığı durumlarda iş menfaatlerimiz için gerekli işleme\n- **Onay:** Belirli onay verdiğiniz durumlarda (pazarlama iletişimleri, zorunlu olmayan çerezler)\n- **Yasal Yükümlülük:** Uygulanabilir yasaların gerektirdiği işleme"
+      },
+      {
+        "title": "5. Bilgi Paylaşımı",
+        "content": "Kişisel verilerinizi satmıyoruz. Bilgileri şu taraflarla paylaşabiliriz:\n\n- **Diğer Kullanıcılar:** Genel profiliniz, ürün listelemeniz ve iş bilgileriniz diğer Platform kullanıcılarına görünür\n- **Hizmet Sağlayıcılar:** Barındırma, analitik, ödeme işleme ve lojistik konusunda yardımcı olan üçüncü taraf sağlayıcılar\n- **Yasal Gereksinimler:** Yasalar, düzenlemeler veya yasal süreçler tarafından gerekli kılındığında\n- **İş Transferleri:** Birleşme, devralma veya varlık satışı ile bağlantılı olarak"
+      },
+      {
+        "title": "6. Veri Saklama",
+        "content": "Kişisel verilerinizi hesabınız aktif olduğu sürece saklıyoruz. Hesap sonlandırmasından sonra:\n\n- İşlem kayıtları yasal ve muhasebe amaçlı 7 yıl saklanır\n- İletişim günlükleri 2 yıl saklanır\n- Kullanım verileri 1 yıl sonra anonimleştirilir\n- Kişisel verilerinizin daha erken silinmesini talep edebilirsiniz"
+      },
+      {
+        "title": "7. Haklarınız",
+        "content": "GDPR ve KVKK kapsamında şu haklara sahipsiniz:\n\n- **Erişim:** Hakkınızda tuttuğumuz kişisel verilerin bir kopyasını talep etme\n- **Düzeltme:** Yanlış veya eksik verilerin düzeltilmesini talep etme\n- **Silme:** Kişisel verilerinizin silinmesini talep etme\n- **Kısıtlama:** Belirli durumlarda işlemenin kısıtlanmasını talep etme\n- **Taşınabilirlik:** Verilerinizi yapılandırılmış, makine tarafından okunabilir bir formatta talep etme\n- **İtiraz:** Meşru menfaatlere dayalı işlemeye itiraz etme\n- **Onayı Geri Çekme:** Daha önce verilen onayı istediğiniz zaman geri çekme\n\nBu hakları kullanmak için sc@sultana.express adresinden bize ulaşın."
+      },
+      {
+        "title": "8. Çerezler",
+        "content": "Çerezler ve benzer teknolojiler kullanıyoruz:\n\n- **Zorunlu Çerezler:** Platform işlevselliği için gerekli\n- **Tercih Çerezleri:** Ayarlarınızı hatırlar\n- **Analitik Çerezler:** Kullanıcıların Platformla nasıl etkileşim kurduğunu anlamamıza yardımcı olur\n\nÇerez tercihlerinizi tarayıcı ayarlarınız üzerinden yönetebilirsiniz."
+      },
+      {
+        "title": "9. Veri Güvenliği",
+        "content": "Uygun teknik ve organizasyonel önlemler uyguluyoruz:\n\n- Aktarım halinde (TLS/SSL) ve beklemede veri şifrelemesi\n- Düzenli güvenlik denetimleri ve zafiyet değerlendirmeleri\n- Erişim kontrolleri ve kimlik doğrulama gereksinimleri\n- Çalışanların veri koruma uygulamaları konusunda eğitimi"
+      },
+      {
+        "title": "10. Uluslararası Veri Transferleri",
+        "content": "Verileriniz ikamet ettiğiniz ülke dışındaki ülkelere aktarılabilir. Standart Sözleşme Maddeleri (SCM) ve tüm hizmet sağlayıcılarla veri işleme anlaşmaları dahil uygun güvenceleri sağlıyoruz."
+      },
+      {
+        "title": "11. Çocukların Gizliliği",
+        "content": "Platform ticari kullanıma yöneliktir ve 18 yaşın altındaki bireylere yönelik değildir. Bilerek çocuklardan kişisel veri toplamıyoruz."
+      },
+      {
+        "title": "12. Bu Politikadaki Değişiklikler",
+        "content": "Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler e-posta veya Platform bildirimi yoluyla iletilecektir."
+      },
+      {
+        "title": "13. Bize Ulaşın",
+        "content": "Gizlilikle ilgili sorular, talepler veya şikayetler için:\n\n- E-posta: sc@sultana.express\n- Adres: İstanbul, Türkiye"
+      }
+    ]
+  },
+  "termsPage": {
+    "metaTitle": "Kullanım Şartları — SultanaExpress",
+    "metaDescription": "SultanaExpress Kullanım Şartları — B2B pazar yeri platformumuzu kullanma kuralları ve yönergeleri.",
+    "badge": "Yasal",
+    "title": "Kullanım Şartları",
+    "subtitle": "SultanaExpress platformunu kullanmadan önce lütfen bu şartları dikkatlice okuyun.",
+    "lastUpdated": "Son güncelleme: Mart 2026",
+    "sections": [
+      {
+        "title": "1. Şartların Kabulü",
+        "content": "SultanaExpress platformuna (\"Platform\") erişerek veya kullanarak, bu Kullanım Şartlarına (\"Şartlar\") bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, Platformu kullanamazsınız.\n\nBu Şartlar, alıcılar, tedarikçiler ve ziyaretçiler dahil tüm Platform kullanıcıları için geçerlidir."
+      },
+      {
+        "title": "2. Hizmet Açıklaması",
+        "content": "SultanaExpress, uluslararası alıcıları Türk üretici ve tedarikçileriyle buluşturan bir B2B pazar yeridir. Platform; tedarikçi keşfi, teklif talebi yönetimi, teklif karşılaştırma, mesajlaşma, sipariş yönetimi ve analitik sağlar.\n\nSultanaExpress bir pazar yeri kolaylaştırıcısı olarak hareket eder. Ürünleri bizzat üretmeyiz, satmayız veya göndermeyiz."
+      },
+      {
+        "title": "3. Hesap Kaydı",
+        "content": "Belirli özellikleri kullanmak için hesap kaydı yapmanız gerekir. Şunları kabul edersiniz:\n\n- Doğru, güncel ve eksiksiz kayıt bilgileri sağlamak\n- Bilgilerinizi güncel tutmak\n- Giriş bilgilerinizi gizli ve güvenli tutmak\n- Hesabınızdaki tüm faaliyetlerin sorumluluğunu kabul etmek\n- Yetkisiz kullanımı derhal bize bildirmek"
+      },
+      {
+        "title": "4. Tedarikçi Doğrulaması",
+        "content": "SultanaExpress, tedarikçiler için doğrulama prosedürleri uygular. Ancak:\n\n- Doğrulama, ürün kalitesi, teslimat veya iş uygulamaları garantisi oluşturmaz\n- Performans seviyeleri geçmiş metrikleri yansıtır ve onay değildir\n- Alıcılar kendi durum tespitlerinden sorumludur"
+      },
+      {
+        "title": "5. Ücretler ve Komisyonlar",
+        "content": "SultanaExpress ücretsiz ve ücretli abonelik seviyeleri sunar:\n\n- **Ücretsiz Seviye:** 0₺/ay, %5 platform komisyonu\n- **Gümüş Seviye:** $49/ay, %3 platform komisyonu\n- **Altın Seviye:** $149/ay, %1 platform komisyonu\n\nFiyatlandırmayı 30 gün önceden bildirimle değiştirme hakkını saklı tutarız."
+      },
+      {
+        "title": "6. Kullanıcı Davranışı",
+        "content": "Şunları yapmamayı kabul edersiniz:\n\n- Platformu yasadışı herhangi bir amaçla kullanmak\n- Yanlış veya yanıltıcı bilgi göndermek\n- Platform işleyişine müdahale etmek\n- İlk temas sonrası işlemleri Platform dışında yürüterek Platform ücretlerini atlatmak\n- İzinsiz veri kazımak veya toplamak\n- Başka bir kişi veya kuruluşu taklit etmek\n- Kötü amaçlı kod veya içerik yüklemek"
+      },
+      {
+        "title": "7. Fikri Mülkiyet",
+        "content": "Platform, SultanaExpress'e aittir ve fikri mülkiyet yasalarıyla korunmaktadır. Gönderdiğiniz içerik sizin mülkiyetinizde kalır, ancak SultanaExpress'e Platformda kullanma, görüntüleme ve dağıtma konusunda münhasır olmayan bir lisans verirsiniz."
+      },
+      {
+        "title": "8. Sorumluluğun Sınırlandırılması",
+        "content": "SultanaExpress bir pazar yeri kolaylaştırıcısıdır. Platformda listelenen ürünlerin kalitesi, güvenliği veya yasallığından, listelerin doğruluğundan veya tarafların yükümlülüklerini yerine getirme kabiliyetinden sorumlu değiliz. Toplam sorumluluğumuz, talebin öncesindeki 12 ayda bize ödediğiniz ücretleri aşmayacaktır."
+      },
+      {
+        "title": "9. Uyuşmazlık Çözümü",
+        "content": "SultanaExpress, alıcılar ve tedarikçiler arasındaki anlaşmazlıklar için arabuluculuk hizmetleri sunabilir ancak bununla yükümlü değildir. Sizinle SultanaExpress arasındaki uyuşmazlıklar Türkiye Cumhuriyeti kanunlarına tabi olacak ve İstanbul mahkemelerinde çözülecektir."
+      },
+      {
+        "title": "10. Fesih",
+        "content": "Hesabınızı istediğiniz zaman feshedebilirsiniz. Bu Şartları ihlal eden hesapları askıya alabilir veya feshedebiliriz. Fesih üzerine, Platformu kullanma hakkınız sona erer, ödenmemiş yükümlülükler geçerliliğini korur ve veriler yasaların gerektirdiği şekilde saklanabilir."
+      },
+      {
+        "title": "11. Şartlardaki Değişiklikler",
+        "content": "Bu Şartları zaman zaman güncelleyebiliriz. Önemli değişiklikler yürürlüğe girmeden en az 30 gün önce bildirilecektir. Değişiklikler yürürlüğe girdikten sonra Platformu kullanmaya devam etmek, güncellenen Şartların kabulünü oluşturur."
+      },
+      {
+        "title": "12. İletişim",
+        "content": "Bu Şartlarla ilgili sorularınız için:\n\n- E-posta: sc@sultana.express\n- Adres: İstanbul, Türkiye"
+      }
+    ]
+  },
+  "cookiesPage": {
+    "metaTitle": "Çerez Politikası — SultanaExpress",
+    "metaDescription": "SultanaExpress Çerez Politikası — çerezleri ve benzer teknolojileri nasıl kullanıyoruz.",
+    "badge": "Yasal",
+    "title": "Çerez Politikası",
+    "subtitle": "Platformumuzda çerezleri ve benzer teknolojileri nasıl kullanıyoruz.",
+    "lastUpdated": "Son güncelleme: Mart 2026",
+    "sections": [
+      {
+        "title": "1. Çerezler Nedir?",
+        "content": "Çerezler, bir web sitesini ziyaret ettiğinizde cihazınızda depolanan küçük metin dosyalarıdır. Web sitesinin tercihlerinizi hatırlamasına ve deneyiminizi iyileştirmesine yardımcı olurlar."
+      },
+      {
+        "title": "2. Kullandığımız Çerezler",
+        "content": "**Zorunlu Çerezler** — Platformun düzgün çalışması için gereklidir. Oturum yönetimi, kimlik doğrulama ve güvenlik çerezlerini içerir. Zorunlu çerezlerden vazgeçemezsiniz.\n\n**Tercih Çerezleri** — Dil tercihi, görüntüleme seçenekleri ve bölge gibi ayarlarınızı hatırlar. Deneyiminizi geliştirir ancak kesinlikle gerekli değildir.\n\n**Analitik Çerezler** — Ziyaretçilerin Platformumuzu nasıl kullandığını anlamamıza yardımcı olur. Bu verileri hizmetlerimizi iyileştirmek için kullanırız.\n\n**Pazarlama Çerezleri** — İlgili reklamları sunmak ve kampanya etkinliğini takip etmek için kullanılır. Pazarlama çerezlerini yalnızca açık onayınızla kullanırız."
+      },
+      {
+        "title": "3. Çerezleri Yönetme",
+        "content": "Çerez tercihlerinizi şu yollarla yönetebilirsiniz:\n\n- **Tarayıcı Ayarları:** Çoğu tarayıcı çerezleri engellemenize veya silmenize olanak tanır\n- **Çerez Bannerımız:** İlk ziyaretinizde görüntülenir ve zorunlu olmayan hangi çerezleri kabul edeceğinizi seçmenize olanak tanır\n\nNot: Zorunlu çerezleri devre dışı bırakmak Platform işlevselliğini etkileyebilir."
+      },
+      {
+        "title": "4. Üçüncü Taraf Çerezleri",
+        "content": "Bazı çerezler, analitik sağlayıcıları ve ödeme işlemcileri dahil kullandığımız üçüncü taraf hizmetleri tarafından yerleştirilir. Bunlar ilgili üçüncü tarafın gizlilik politikasına tabidir."
+      },
+      {
+        "title": "5. Bu Politikadaki Güncellemeler",
+        "content": "Bu Çerez Politikasını zaman zaman güncelleyebiliriz. \"Son güncelleme\" tarihi en son revizyonu yansıtır."
+      },
+      {
+        "title": "6. İletişim",
+        "content": "Çerez kullanımımızla ilgili sorularınız için:\n\n- E-posta: sc@sultana.express\n- Adres: İstanbul, Türkiye"
+      }
+    ]
+  },
+  "blogPage": {
+    "metaTitle": "Blog — SultanaExpress",
+    "metaDescription": "SultanaExpress'ten tedarik rehberleri, sektör içgörüleri ve ticaret ipuçları. Türk tekstil üretimi ve B2B tedarik en iyi uygulamaları hakkında bilgi edinin.",
+    "badge": "Blog",
+    "title": "Tedarik İçgörüleri ve Sektör Rehberleri",
+    "subtitle": "Türk tekstil tedariki, sektör trendleri ve B2B ticaret en iyi uygulamaları hakkında uzman rehberler.",
+    "readMore": "Devamını Oku",
+    "minRead": "dk okuma",
+    "categories": {
+      "all": "Tümü",
+      "sourcingGuides": "Tedarik Rehberleri",
+      "industryTrends": "Sektör Trendleri",
+      "platformTips": "Platform İpuçları",
+      "certifications": "Sertifikalar"
+    },
+    "posts": [
+      {
+        "slug": "how-to-source-cotton-tshirts-from-turkey",
+        "title": "Türkiye'den Pamuklu Tişört Tedariki: Eksiksiz Rehber",
+        "excerpt": "Türk üreticilerinden kaliteli pamuklu tişört tedariki hakkında bilmeniz gereken her şey — kumaş seçiminden kargo lojistiğine.",
+        "category": "sourcingGuides",
+        "readTime": 8,
+        "date": "2026-03-15",
+        "author": "SultanaExpress Ekibi"
+      },
+      {
+        "slug": "turkey-vs-china-textile-sourcing-2026",
+        "title": "Tekstil Tedarikinde Türkiye ve Çin: 2026 Karşılaştırması",
+        "excerpt": "Tekstil tedarik destinasyonları olarak Türkiye ve Çin'in derinlemesine karşılaştırması — fiyatlandırma, teslim süreleri, kalite standartları ve lojistik.",
+        "category": "industryTrends",
+        "readTime": 12,
+        "date": "2026-03-10",
+        "author": "SultanaExpress Ekibi"
+      },
+      {
+        "slug": "what-is-oeko-tex-100",
+        "title": "OEKO-TEX 100 Nedir ve Neden Önemlidir?",
+        "excerpt": "OEKO-TEX Standard 100 sertifikasını anlama — neyi test eder, neden önemlidir ve tedarikçinizin sertifikasını nasıl doğrularsınız.",
+        "category": "certifications",
+        "readTime": 6,
+        "date": "2026-03-05",
+        "author": "SultanaExpress Ekibi"
+      },
+      {
+        "slug": "understanding-moq-buyers-guide",
+        "title": "MOQ'yu Anlamak: Alıcının Minimum Sipariş Miktarı Rehberi",
+        "excerpt": "MOQ ne anlama gelir, nasıl belirlenir ve Türk tekstil üreticileriyle minimum sipariş miktarlarını müzakere etme stratejileri.",
+        "category": "sourcingGuides",
+        "readTime": 7,
+        "date": "2026-02-28",
+        "author": "SultanaExpress Ekibi"
+      }
+    ]
+  },
+  "caseStudiesPage": {
+    "metaTitle": "Başarı Hikayeleri — SultanaExpress",
+    "metaDescription": "SultanaExpress kullanarak tedarik ve ihracat operasyonlarını dönüştüren alıcı ve tedarikçilerin başarı hikayeleri.",
+    "badge": "Başarı Hikayeleri",
+    "title": "Ortaklarımızdan Başarı Hikayeleri",
+    "subtitle": "Alıcıların ve tedarikçilerin SultanaExpress'i işlerini büyütmek için nasıl kullandığını görün.",
+    "viewStudy": "Hikayeyi Görüntüle",
+    "results": "Temel Sonuçlar",
+    "comingSoon": "Ortaklarımız başarı hikayelerini paylaştıkça daha fazla vaka çalışması gelecek.",
+    "studies": [
+      {
+        "slug": "european-retailer-textile-sourcing",
+        "title": "Bir Avrupalı Perakendeci Tedarik Maliyetlerini %35 Nasıl Düşürdü",
+        "excerpt": "Orta ölçekli bir Avrupalı moda perakendecisi, geleneksel tedarik sürecini SultanaExpress ile değiştirdi ve kalite tutarlılığını artırırken maliyetleri düşürdü.",
+        "industry": "Moda Perakende",
+        "stats": [
+          { "value": "%35", "label": "Maliyet Düşüşü" },
+          { "value": "3x", "label": "Daha Hızlı Tedarik" },
+          { "value": "12", "label": "Yeni Tedarikçi Bulundu" }
+        ]
+      },
+      {
+        "slug": "turkish-manufacturer-global-expansion",
+        "title": "Türk Üretici 15 Yeni Pazara Genişledi",
+        "excerpt": "İstanbul'daki bir aile işletmesi tekstil üreticisi, fuar maliyeti olmadan uluslararası alıcılara ulaşmak için SultanaExpress'i kullandı.",
+        "industry": "Tekstil Üretimi",
+        "stats": [
+          { "value": "15", "label": "Yeni Pazar" },
+          { "value": "%200", "label": "İhracat Büyümesi" },
+          { "value": "€0", "label": "Fuar Maliyeti" }
+        ]
+      }
+    ]
+  }
+}

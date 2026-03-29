@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "title": "SultanaExpress — B2B Marketplace for Turkish Manufacturers",
+    "description": "SultanaExpress: B2B marketplace connecting international buyers with verified Turkish textile manufacturers. RFQ system, quote comparison, real-time messaging, order tracking. Free registration."
+  },
+  "nav": {
+    "howItWorks": "How It Works",
+    "forBuyers": "For Buyers",
+    "forSuppliers": "For Suppliers",
+    "pricing": "Pricing",
+    "about": "About",
+    "blog": "Blog",
+    "getStarted": "Get Started Free",
+    "switchLang": "TR"
+  },
+  "hero": {
+    "badge": "Launching 2026 — Early Access Now Open",
+    "titleLine1": "Source Directly from Turkey's",
+    "titleLine2": "Best Manufacturers.",
+    "subtitle": "The B2B marketplace purpose-built for textile sourcing from Turkey. Filter by GSM, fiber composition, and certifications. Compare quotes side by side. Track orders from factory floor to your warehouse. Free for buyers, always.",
+    "ctaBuyer": "Browse Turkish Manufacturers — Free",
+    "ctaSupplier": "List Your Products — Free",
+    "trustVerified": "Verified Suppliers",
+    "trustSecure": "Secure Payments",
+    "trustGlobal": "Global Logistics",
+    "trustResponse": "24h Response Time",
+    "statIndustries": "Industries",
+    "statIndustriesValue": "4",
+    "statCountries": "Countries Reached",
+    "statCountriesValue": "47",
+    "statLanguages": "Languages",
+    "statLanguagesValue": "5",
+    "statFees": "Buyer Fees",
+    "statFeesValue": "0%"
+  },
+  "problem": {
+    "badge": "Why SultanaExpress",
+    "title": "International B2B Sourcing Is Broken",
+    "subtitle": "Finding reliable suppliers in Turkey means endless trade shows, cold emails that go unanswered, language barriers, and zero transparency on pricing. Both sides deserve better.",
+    "buyerLabel": "For Buyers",
+    "buyerTitle": "Finding Suppliers Is a Gamble",
+    "buyerDesc": "You fly to Istanbul, visit showrooms, collect business cards — and still have no way to verify quality, pricing, or reliability before placing an order.",
+    "supplierLabel": "For Suppliers",
+    "supplierTitle": "Reaching Global Markets Is Expensive",
+    "supplierDesc": "Trade shows cost thousands. B2B platforms charge exorbitant listing fees. And even after paying, there's no guarantee that qualified buyers will find your products.",
+    "bothLabel": "For Both",
+    "bothTitle": "No Transparency, No Trust",
+    "bothDesc": "Pricing is opaque. Communication is fragmented across email, WhatsApp, and phone. There's no single platform to manage the entire procurement cycle."
+  },
+  "features": {
+    "badge": "The Platform",
+    "title": "From Discovery to Delivery, All in One Place",
+    "subtitle": "SultanaExpress handles everything from discovery to delivery. Browse verified suppliers, request quotes, negotiate terms, place orders, and track shipments — all in one place.",
+    "verifiedTitle": "Verified Supplier Network",
+    "verifiedDesc": "Every supplier undergoes factory audits, document verification, and financial assessment. Performance tiers reflect proven track records.",
+    "rfqTitle": "Smart RFQ System",
+    "rfqDesc": "Create detailed Requests for Quote with textile-specific fields — fiber composition, GSM weight, certifications. Receive quotes and compare them with automatic scoring.",
+    "messagingTitle": "Real-Time Messaging",
+    "messagingDesc": "Built-in messaging with file attachments, read receipts, and typing indicators. Every conversation is linked to its RFQ or order for full context.",
+    "comparisonTitle": "Quote Comparison Matrix",
+    "comparisonDesc": "Compare quotes from multiple suppliers across price, delivery time, payment terms, and quality certifications. Weighted scoring highlights the best match.",
+    "trackingTitle": "Order Tracking",
+    "trackingDesc": "Track every order from confirmation through production, shipping, and delivery. Upload and access invoices, packing lists, and certificates in one place.",
+    "analyticsTitle": "Analytics Dashboards",
+    "analyticsDesc": "Buyers see spending trends, supplier performance, and order history. Suppliers see revenue analytics, product performance, and market demand signals."
+  },
+  "whyTurkey": {
+    "badge": "Strategic Advantage",
+    "title": "Why Smart Buyers Are Choosing Turkey",
+    "subtitle": "Turkey exported $255 billion in goods in 2023, making it the world's 7th largest apparel exporter. Its Customs Union with the EU means zero tariffs, shorter shipping, and competitive pricing.",
+    "tariffValue": "0%",
+    "tariffTitle": "EU Customs Union Tariffs",
+    "tariffDesc": "Industrial goods move between Turkey and the EU with zero customs duties — lower costs, fewer delays, simplified documentation compared to Asia.",
+    "deliveryValue": "2–5",
+    "deliveryTitle": "Day Delivery to Europe",
+    "deliveryDesc": "Turkey sits at the crossroads of Europe and Asia. Shipments reach European destinations in 2–5 days by road, compared to 25–40 days from China by sea.",
+    "factoriesValue": "10K+",
+    "factoriesTitle": "Textile Factories",
+    "factoriesDesc": "Turkey's textile industry spans the full value chain — fiber production to finished garments — with internationally recognized certifications like OEKO-TEX, GOTS, and ISO 9001."
+  },
+  "forBuyers": {
+    "badge": "For Buyers",
+    "title": "Find the Right Supplier in Minutes, Not Months",
+    "subtitle": "Whether you're a boutique owner sourcing 500 t-shirts or a retail chain ordering 50,000 meters of fabric, SultanaExpress gives you direct access to Turkey's best manufacturers.",
+    "items": [
+      "Browse thousands of products across textiles, fashion, accessories, and home goods",
+      "Filter by fabric composition, GSM weight, MOQ, certifications, and more",
+      "Create detailed RFQs with textile-specific specifications",
+      "Receive and compare multiple quotes with automatic scoring",
+      "Negotiate directly with suppliers through built-in messaging",
+      "Track orders from confirmation to doorstep delivery",
+      "Save favorites and build curated supplier collections"
+    ],
+    "cta": "Start Sourcing Free — No Credit Card Required"
+  },
+  "forSuppliers": {
+    "badge": "For Suppliers",
+    "title": "Reach 25+ Countries Without Leaving Your Workshop",
+    "subtitle": "Join a growing network of Turkish manufacturers connecting with qualified international buyers. List your products, receive quote requests, and grow your export business.",
+    "items": [
+      "Create a verified supplier profile showcasing your capabilities and certifications",
+      "List products with detailed specifications, tiered pricing, and sample availability",
+      "Receive qualified RFQs from verified buyers — no cold outreach needed",
+      "Submit quotes with built-in calculators for pricing, shipping, and lead times",
+      "Manage orders with status tracking, document upload, and payment monitoring",
+      "Access analytics showing product views, inquiry rates, and market trends",
+      "Earn higher visibility through performance tiers (Bronze to Platinum)"
+    ],
+    "cta": "Register Your Company Free"
+  },
+  "howItWorks": {
+    "badge": "Simple Process",
+    "title": "From Sign-Up to First Order in Under a Week",
+    "subtitle": "Get up and running in minutes, not days.",
+    "steps": [
+      {
+        "title": "Create Your Account",
+        "desc": "Sign up free in under 2 minutes. Tell us about your business and what you're looking for."
+      },
+      {
+        "title": "Discover & Connect",
+        "desc": "Browse verified suppliers and products. Use advanced filters to find exactly what you need. Save favorites for later."
+      },
+      {
+        "title": "Request Quotes & Negotiate",
+        "desc": "Submit RFQs with detailed specifications. Receive quotes from multiple suppliers. Compare, counter-offer, and finalize terms."
+      },
+      {
+        "title": "Order & Track",
+        "desc": "Place orders with payment protection. Track production and shipping in real time. Receive goods with full documentation."
+      }
+    ]
+  },
+  "mobileApp": {
+    "badge": "Mobile Apps",
+    "title": "Your Supply Chain in Your Pocket",
+    "subtitle": "SultanaExpress has dedicated iOS and Android apps for both buyers and suppliers. Get push notifications for new quotes, manage orders from anywhere, and communicate with partners in real time.",
+    "buyerTitle": "Buyer App",
+    "buyerFeatures": [
+      "Discover products and suppliers with barcode scanning",
+      "Receive push notifications when quotes arrive",
+      "Browse your favorite suppliers and products offline",
+      "Set price alerts for products you're watching",
+      "Place reorders with one tap from history"
+    ],
+    "supplierTitle": "Supplier App",
+    "supplierFeatures": [
+      "Manage your product catalog with photo capture",
+      "Respond to RFQs directly from your phone",
+      "Update order status and upload shipping documents on the go",
+      "View sales analytics and market intelligence",
+      "Secure access with biometric authentication"
+    ],
+    "notifyText": "Get notified when the apps launch:",
+    "notifyPlaceholder": "Enter your email address",
+    "notifyButton": "Get Early Access"
+  },
+  "trust": {
+    "badge": "Trust & Safety",
+    "title": "Every Supplier Verified. Every Transaction Protected.",
+    "verifiedTitle": "Verified Suppliers",
+    "verifiedDesc": "Every manufacturer undergoes document verification, business registration checks, and capability assessment. Performance tiers reward consistent quality.",
+    "verifiedBadges": ["Business License", "Tax ID", "Factory Audit"],
+    "certTitle": "Industry Certifications",
+    "certDesc": "We prioritize suppliers with internationally recognized certifications that matter in textiles.",
+    "certBadges": ["OEKO-TEX 100", "GOTS", "ISO 9001", "GRS", "BSCI"],
+    "secureTitle": "Secure & Compliant",
+    "secureDesc": "GDPR-compliant data handling. Encrypted communications. Secure payment processing. Your data and transactions are protected at every step.",
+    "secureBadges": ["GDPR", "Encrypted", "5 Languages"],
+    "logisticsTitle": "Global Logistics Powered by Yusen Logistics",
+    "logisticsDesc": "Powered by Yusen Logistics — one of Asia's largest supply chain companies with offices in 47 countries. Door-to-door delivery from Turkish factories to your warehouse."
+  },
+  "testimonials": {
+    "badge": "Our Partners",
+    "title": "What Turkish Manufacturers Say About SultanaExpress",
+    "items": [
+      {
+        "quote": "We've been manufacturing t-shirts, polos, and shorts for over 10 years. SultanaExpress gives us a direct channel to reach European buyers without the cost of trade shows.",
+        "initials": "MB",
+        "name": "Mehmet Baran",
+        "company": "Andock Textile, Istanbul",
+        "exp": "10+ years experience"
+      },
+      {
+        "quote": "With 25 years in the industry, I've seen many platforms come and go. SultanaExpress stands out because it understands the textile business — the specifications, the certifications, the lead times.",
+        "initials": "M",
+        "name": "Mustafa",
+        "company": "Norwich Textile, Istanbul",
+        "exp": "25+ years experience"
+      },
+      {
+        "quote": "The RFQ system on SultanaExpress is exactly what we needed. We receive qualified requests with detailed specifications, which means less back-and-forth and faster deals.",
+        "initials": "A",
+        "name": "Ahmet",
+        "company": "Gulipek, Istanbul",
+        "exp": "20+ years experience"
+      }
+    ]
+  },
+  "pricing": {
+    "badge": "Pricing",
+    "title": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Free registration for both buyers and suppliers. Upgrade for premium features and higher visibility.",
+    "tiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "period": "/ month",
+        "subtitle": "Perfect for getting started",
+        "features": [
+          "Browse all products and suppliers",
+          "Create up to 3 RFQs per month",
+          "Basic messaging",
+          "Standard supplier profile",
+          "5% platform commission",
+          "Email support"
+        ],
+        "cta": "Start Free Forever",
+        "featured": false
+      },
+      {
+        "name": "Silver",
+        "price": "$49",
+        "period": "/ month",
+        "subtitle": "For growing businesses",
+        "popular": "Most Popular",
+        "features": [
+          "Everything in Free, plus:",
+          "Unlimited RFQs",
+          "Quote comparison matrix",
+          "Enhanced profile with analytics",
+          "3% platform commission",
+          "Priority support"
+        ],
+        "cta": "Try Silver Free for 14 Days",
+        "featured": true
+      },
+      {
+        "name": "Gold",
+        "price": "$149",
+        "period": "/ month",
+        "subtitle": "For power traders",
+        "features": [
+          "Everything in Silver, plus:",
+          "Dedicated account manager",
+          "Advanced analytics & market intel",
+          "Platinum supplier badge",
+          "1% platform commission",
+          "Phone & live chat support"
+        ],
+        "cta": "Talk to Our Team",
+        "featured": false
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Everything You Need to Know Before Getting Started",
+    "items": [
+      {
+        "question": "What is SultanaExpress?",
+        "answer": "SultanaExpress is a B2B marketplace that connects international buyers with verified Turkish manufacturers and suppliers, with a primary focus on textiles, fashion, and related industries. The platform handles the entire procurement cycle from product discovery to delivery tracking."
+      },
+      {
+        "question": "Is it free to sign up?",
+        "answer": "Yes. Registration is completely free for both buyers and suppliers. Buyers can browse products, search suppliers, and create up to 3 RFQs per month at no cost. A 5% commission applies only when a transaction is completed through the platform."
+      },
+      {
+        "question": "How are suppliers verified?",
+        "answer": "Every supplier undergoes a multi-step verification process that includes business registration document review, tax ID verification, capability assessment, and optional factory audit. Suppliers earn performance tiers (Bronze through Platinum) based on their transaction history, response times, and buyer ratings."
+      },
+      {
+        "question": "What industries do you cover?",
+        "answer": "Our primary focus is textiles and fashion — apparel, fabrics, accessories, and home textiles. We also serve machinery, electronics, agricultural products, and furniture. The platform includes textile-specific features like fiber composition tracking, GSM specifications, and certification management."
+      },
+      {
+        "question": "Which countries do you serve?",
+        "answer": "SultanaExpress is available to buyers worldwide. Our logistics partner Yusen Logistics operates in 47 countries and 372 cities. The platform currently supports English, Turkish, German, French, and Italian."
+      },
+      {
+        "question": "How does the RFQ system work?",
+        "answer": "Buyers create a Request for Quote with detailed product specifications — quantity, quality requirements, delivery timeline, and budget. The RFQ is sent to relevant suppliers who respond with detailed quotes. Buyers can compare quotes side by side using our scoring matrix, negotiate terms, and accept the best offer — all within the platform."
+      },
+      {
+        "question": "Is there a mobile app?",
+        "answer": "Yes! Native iOS and Android apps for both buyers and suppliers are available. The mobile apps include push notifications, offline support, barcode scanning, and all the core features of the web platform."
+      },
+      {
+        "question": "What are the minimum order quantities?",
+        "answer": "MOQs vary by supplier and product. Each product listing includes the supplier's minimum order quantity. Many suppliers offer sample orders at smaller quantities before committing to bulk purchases."
+      },
+      {
+        "question": "How do payments work? Is there escrow protection?",
+        "answer": "SultanaExpress provides escrow payment protection for all transactions. Funds are held securely until the buyer confirms receipt and quality of goods. This protects both parties and builds trust."
+      },
+      {
+        "question": "What if I receive defective goods?",
+        "answer": "Our dispute resolution process protects buyers. If goods don't match the agreed specifications, you can open a dispute. Our team mediates between buyer and supplier to reach a fair resolution, including refunds when warranted."
+      },
+      {
+        "question": "Can I request samples before ordering?",
+        "answer": "Absolutely. Most suppliers offer product samples. You can request samples directly through the platform before committing to a bulk order. Sample availability and pricing are listed on each product page."
+      },
+      {
+        "question": "Do you handle customs and import duties?",
+        "answer": "Our logistics partner Yusen Logistics handles the shipping process. For EU buyers, Turkey's Customs Union means zero tariffs on most industrial goods. For non-EU destinations, our team can help navigate customs requirements and documentation."
+      }
+    ]
+  },
+  "bottomCta": {
+    "title": "Start Sourcing Smarter Today",
+    "subtitle": "Join SultanaExpress today and start connecting with verified Turkish suppliers. Free registration, no credit card required, and your first three RFQs are on us.",
+    "buyerTitle": "I'm a Buyer",
+    "buyerDesc": "Find quality Turkish products at competitive prices.",
+    "buyerCta": "Find Your First Supplier Today",
+    "supplierTitle": "I'm a Supplier",
+    "supplierDesc": "Reach qualified international buyers and grow your exports.",
+    "supplierCta": "Start Selling to the World",
+    "trustItems": [
+      "No credit card required",
+      "Free tier available",
+      "5-language support",
+      "GDPR compliant"
+    ]
+  },
+  "footer": {
+    "tagline": "The premier B2B marketplace connecting global buyers with Turkish manufacturers and suppliers.",
+    "platform": "Platform",
+    "platformLinks": {
+      "browseProducts": "Browse Products",
+      "browseSuppliers": "Browse Suppliers",
+      "postRFQ": "Post an RFQ",
+      "compareQuotes": "Compare Quotes"
+    },
+    "resources": "Resources",
+    "resourceLinks": {
+      "howItWorks": "How It Works",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "helpCenter": "Help Center"
+    },
+    "company": "Company",
+    "companyLinks": {
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "contact": "Contact",
+    "location": "Istanbul, Turkey",
+    "email": "sc@sultana.express",
+    "copyright": "© 2026 SultanaExpress. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "pricingPage": {
+    "metaTitle": "Pricing — SultanaExpress",
+    "metaDescription": "Transparent pricing for buyers and suppliers. Free registration, commission-based model, no hidden fees.",
+    "badge": "Pricing Plans",
+    "title": "Choose the Plan That Fits Your Business",
+    "subtitle": "Free registration for both buyers and suppliers. Upgrade for premium features, lower commissions, and higher visibility.",
+    "comparisonTitle": "Detailed Feature Comparison",
+    "features": {
+      "productBrowsing": "Product & Supplier Browsing",
+      "rfqsPerMonth": "RFQs Per Month",
+      "quoteComparison": "Quote Comparison Matrix",
+      "messaging": "Real-Time Messaging",
+      "analytics": "Analytics Dashboard",
+      "supplierProfile": "Supplier Profile",
+      "accountManager": "Dedicated Account Manager",
+      "commission": "Platform Commission",
+      "support": "Support Level",
+      "priorityListing": "Priority Listing",
+      "marketIntel": "Market Intelligence Reports",
+      "apiAccess": "API Access"
+    },
+    "featureValues": {
+      "free": {
+        "productBrowsing": "Unlimited",
+        "rfqsPerMonth": "3",
+        "quoteComparison": "No",
+        "messaging": "Basic",
+        "analytics": "Basic",
+        "supplierProfile": "Standard",
+        "accountManager": "No",
+        "commission": "5%",
+        "support": "Email",
+        "priorityListing": "No",
+        "marketIntel": "No",
+        "apiAccess": "No"
+      },
+      "silver": {
+        "productBrowsing": "Unlimited",
+        "rfqsPerMonth": "Unlimited",
+        "quoteComparison": "Yes",
+        "messaging": "Full (read receipts, files)",
+        "analytics": "Enhanced",
+        "supplierProfile": "Enhanced + Analytics",
+        "accountManager": "No",
+        "commission": "3%",
+        "support": "Priority Email",
+        "priorityListing": "Yes",
+        "marketIntel": "Monthly",
+        "apiAccess": "No"
+      },
+      "gold": {
+        "productBrowsing": "Unlimited",
+        "rfqsPerMonth": "Unlimited",
+        "quoteComparison": "Yes",
+        "messaging": "Full + Priority Routing",
+        "analytics": "Advanced + Exports",
+        "supplierProfile": "Platinum Badge",
+        "accountManager": "Yes",
+        "commission": "1%",
+        "support": "Phone + Live Chat",
+        "priorityListing": "Featured",
+        "marketIntel": "Weekly + Custom",
+        "apiAccess": "Yes"
+      }
+    },
+    "calculatorTitle": "Commission Calculator",
+    "calculatorDescription": "See how much you save with each plan based on your monthly transaction volume.",
+    "calculatorMonthlyVolume": "Monthly Transaction Volume",
+    "calculatorPlanLabel": "Plan",
+    "calculatorCommission": "Commission",
+    "calculatorSubscription": "Subscription",
+    "calculatorTotal": "Total Cost",
+    "calculatorSavings": "You save {amount} vs Free plan",
+    "pricingFaq": {
+      "title": "Pricing FAQ",
+      "items": [
+        {
+          "question": "Can I switch plans at any time?",
+          "answer": "Yes, you can upgrade or downgrade your plan at any time. When upgrading, the new features take effect immediately. When downgrading, you'll keep your current features until the end of your billing cycle."
+        },
+        {
+          "question": "Is there a free trial for paid plans?",
+          "answer": "Yes! Silver plan comes with a 14-day free trial. Gold plan includes a personalized demo with our team before you commit."
+        },
+        {
+          "question": "How is the platform commission calculated?",
+          "answer": "The commission is applied as a percentage of the total transaction value when an order is completed through the platform. It's automatically calculated and deducted at the time of payment."
+        },
+        {
+          "question": "Are there any hidden fees?",
+          "answer": "No hidden fees whatsoever. Your subscription fee and the commission percentage are the only costs. Shipping and logistics costs are separate and transparent."
+        }
+      ]
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "About Us — SultanaExpress",
+    "metaDescription": "Learn about SultanaExpress — the B2B marketplace bridging Turkish manufacturing with the world.",
+    "badge": "About Us",
+    "title": "Bridging Turkish Manufacturing with the World",
+    "subtitle": "We're building the infrastructure that makes international B2B trade simple, transparent, and accessible for everyone.",
+    "missionTitle": "Our Mission",
+    "missionP1": "SultanaExpress was founded with a simple but ambitious goal: to eliminate the friction in international B2B sourcing from Turkey. We believe that every manufacturer — regardless of size — deserves access to global markets, and every buyer deserves transparent, reliable sourcing options.",
+    "missionP2": "Turkey is one of the world's great manufacturing powerhouses, with over 10,000 textile factories alone, a Customs Union agreement with the EU, and a strategic geographic position bridging Europe and Asia. Yet connecting with Turkish suppliers has traditionally required trade show visits, cold outreach, and navigating language barriers with no guarantee of quality or reliability.",
+    "missionP3": "We're changing that.",
+    "whatWeDoTitle": "What We Do",
+    "whatWeDoIntro": "SultanaExpress is a B2B marketplace purpose-built for international trade with Turkish manufacturers. Our platform handles the entire procurement cycle:",
+    "whatWeDoItems": [
+      { "title": "Supplier Discovery", "desc": "Browse verified manufacturers with detailed profiles, certifications, and performance ratings" },
+      { "title": "Smart RFQ System", "desc": "Create detailed Requests for Quote with industry-specific fields and receive competitive quotes" },
+      { "title": "Quote Comparison", "desc": "Compare offers from multiple suppliers with automatic scoring across price, quality, and delivery" },
+      { "title": "Real-Time Communication", "desc": "Built-in messaging linked to every RFQ and order for full context" },
+      { "title": "Order Management", "desc": "Track orders from confirmation through production, shipping, and delivery" },
+      { "title": "Logistics Integration", "desc": "Powered by Yusen Logistics with coverage across 47 countries" }
+    ],
+    "valuesTitle": "Our Values",
+    "values": [
+      { "title": "Transparency", "desc": "No hidden fees, no opaque pricing. Every cost, every commission, every process step is visible to both buyers and suppliers." },
+      { "title": "Trust", "desc": "Every supplier undergoes verification. Performance tiers reward consistency. GDPR-compliant data handling protects everyone." },
+      { "title": "Accessibility", "desc": "Free registration for all. Five-language support. Mobile apps for trade on the go. No barriers to getting started." },
+      { "title": "Quality", "desc": "We prioritize suppliers with internationally recognized certifications — OEKO-TEX, GOTS, ISO 9001, GRS, and BSCI." }
+    ],
+    "industriesTitle": "Our Focus Industries",
+    "industriesIntro": "While our platform supports multiple industries, we have deep expertise in:",
+    "industries": [
+      { "title": "Textiles & Fashion", "desc": "Apparel, fabrics, accessories, home textiles" },
+      { "title": "Machinery & Equipment", "desc": "Industrial machinery, manufacturing equipment" },
+      { "title": "Electronics", "desc": "Consumer electronics and components" },
+      { "title": "Agriculture", "desc": "Turkish agricultural products and food processing" }
+    ],
+    "contactTitle": "Get in Touch",
+    "contactText": "We'd love to hear from you — whether you're a buyer looking for reliable Turkish suppliers, a manufacturer ready to expand globally, or a partner interested in collaboration.",
+    "contactCta": "Contact our team"
+  },
+  "privacyPage": {
+    "metaTitle": "Privacy Policy — SultanaExpress",
+    "metaDescription": "SultanaExpress Privacy Policy — how we collect, use, and protect your personal data.",
+    "badge": "Legal",
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your personal information.",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": "SultanaExpress (\"Company\", \"we\", \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our B2B marketplace platform (\"Platform\").\n\nWe comply with the General Data Protection Regulation (GDPR), the Turkish Law on Personal Data Protection (KVKK), and other applicable data protection laws."
+      },
+      {
+        "title": "2. Information We Collect",
+        "content": "**2.1 Information You Provide**\n\n- **Account Information:** Name, email address, phone number, company name, job title, and business address\n- **Profile Information:** Company description, product categories, certifications, and business capabilities\n- **Transaction Data:** RFQ details, quotes, order information, and payment records\n- **Communications:** Messages exchanged through the Platform, support requests, and feedback\n- **Verification Documents:** Business registration, tax ID, and certification documents (for suppliers)\n\n**2.2 Information Collected Automatically**\n\n- **Usage Data:** Pages visited, features used, search queries, and interaction patterns\n- **Device Information:** Browser type, operating system, device identifiers, and IP address\n- **Cookies:** Session cookies, preference cookies, and analytics cookies"
+      },
+      {
+        "title": "3. How We Use Your Information",
+        "content": "We use collected information for the following purposes:\n\n- **Platform Operation:** To provide, maintain, and improve the Platform's features and services\n- **Account Management:** To create and manage your account, verify your identity, and process transactions\n- **Communication:** To send transactional notifications, respond to inquiries, and provide support\n- **Matching:** To connect buyers with relevant suppliers based on product categories and requirements\n- **Analytics:** To understand usage patterns, generate market insights, and improve user experience\n- **Security:** To detect and prevent fraud, abuse, and unauthorized access\n- **Legal Compliance:** To comply with applicable laws, regulations, and legal processes"
+      },
+      {
+        "title": "4. Legal Basis for Processing (GDPR)",
+        "content": "We process personal data based on the following legal grounds:\n\n- **Contract Performance:** Processing necessary to provide our services\n- **Legitimate Interests:** Processing necessary for our business interests where not overridden by your rights\n- **Consent:** Where you have given specific consent (marketing communications, non-essential cookies)\n- **Legal Obligation:** Processing required by applicable laws"
+      },
+      {
+        "title": "5. Information Sharing",
+        "content": "We do not sell your personal data. We may share information with:\n\n- **Other Users:** Your public profile, product listings, and business information are visible to other Platform users\n- **Service Providers:** Third-party providers who assist with hosting, analytics, payment processing, and logistics\n- **Legal Requirements:** When required by law, regulation, or legal process\n- **Business Transfers:** In connection with a merger, acquisition, or sale of assets"
+      },
+      {
+        "title": "6. Data Retention",
+        "content": "We retain your personal data for as long as your account is active or as needed to provide our services. After account termination:\n\n- Transaction records are retained for 7 years for legal and accounting purposes\n- Communication logs are retained for 2 years\n- Usage data is anonymized after 1 year\n- You may request earlier deletion of your personal data (subject to legal retention requirements)"
+      },
+      {
+        "title": "7. Your Rights",
+        "content": "Under GDPR and KVKK, you have the right to:\n\n- **Access:** Request a copy of the personal data we hold about you\n- **Rectification:** Request correction of inaccurate or incomplete data\n- **Erasure:** Request deletion of your personal data\n- **Restriction:** Request restriction of processing in certain circumstances\n- **Portability:** Request your data in a structured, machine-readable format\n- **Objection:** Object to processing based on legitimate interests\n- **Withdraw Consent:** Withdraw previously given consent at any time\n\nTo exercise these rights, contact us at sc@sultana.express. We will respond within 30 days."
+      },
+      {
+        "title": "8. Cookies",
+        "content": "We use cookies and similar technologies:\n\n- **Essential Cookies:** Required for Platform functionality\n- **Preference Cookies:** Remember your settings\n- **Analytics Cookies:** Understand how users interact with the Platform\n\nYou can manage cookie preferences through your browser settings."
+      },
+      {
+        "title": "9. Data Security",
+        "content": "We implement appropriate technical and organizational measures:\n\n- Encryption of data in transit (TLS/SSL) and at rest\n- Regular security audits and vulnerability assessments\n- Access controls and authentication requirements\n- Employee training on data protection practices"
+      },
+      {
+        "title": "10. International Data Transfers",
+        "content": "Your data may be transferred to countries outside your country of residence. We ensure appropriate safeguards including Standard Contractual Clauses (SCCs) and data processing agreements with all service providers."
+      },
+      {
+        "title": "11. Children's Privacy",
+        "content": "The Platform is intended for business use and is not directed at individuals under the age of 18. We do not knowingly collect personal data from children."
+      },
+      {
+        "title": "12. Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. Material changes will be communicated via email or Platform notification."
+      },
+      {
+        "title": "13. Contact Us",
+        "content": "For privacy-related questions, requests, or complaints:\n\n- Email: sc@sultana.express\n- Address: Istanbul, Turkey"
+      }
+    ]
+  },
+  "termsPage": {
+    "metaTitle": "Terms of Service — SultanaExpress",
+    "metaDescription": "SultanaExpress Terms of Service — rules and guidelines for using our B2B marketplace platform.",
+    "badge": "Legal",
+    "title": "Terms of Service",
+    "subtitle": "Please read these terms carefully before using the SultanaExpress platform.",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing or using the SultanaExpress platform (\"Platform\"), operated by SultanaExpress (\"Company\", \"we\", \"us\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, you may not use the Platform.\n\nThese Terms apply to all users of the Platform, including buyers, suppliers, and visitors."
+      },
+      {
+        "title": "2. Description of Service",
+        "content": "SultanaExpress is a B2B marketplace that connects international buyers with Turkish manufacturers and suppliers. The Platform provides supplier discovery, RFQ management, quote comparison, messaging, order management, and analytics.\n\nSultanaExpress acts as a marketplace facilitator. We do not manufacture, sell, or ship products ourselves."
+      },
+      {
+        "title": "3. Account Registration",
+        "content": "To use certain features, you must register an account. You agree to:\n\n- Provide accurate, current, and complete registration information\n- Maintain and update your information to keep it accurate\n- Keep your login credentials confidential and secure\n- Accept responsibility for all activities under your account\n- Notify us immediately of any unauthorized use"
+      },
+      {
+        "title": "4. Supplier Verification",
+        "content": "SultanaExpress conducts verification procedures for suppliers. However:\n\n- Verification does not constitute a guarantee of product quality, delivery, or business practices\n- Performance tiers reflect historical metrics and are not endorsements\n- Buyers are responsible for their own due diligence"
+      },
+      {
+        "title": "5. Fees and Commissions",
+        "content": "SultanaExpress offers free and paid subscription tiers:\n\n- **Free Tier:** $0/month with 5% platform commission\n- **Silver Tier:** $49/month with 3% platform commission\n- **Gold Tier:** $149/month with 1% platform commission\n\nWe reserve the right to modify pricing with 30 days' advance notice."
+      },
+      {
+        "title": "6. User Conduct",
+        "content": "You agree not to:\n\n- Use the Platform for any unlawful purpose\n- Submit false or misleading information\n- Interfere with Platform operation\n- Circumvent Platform fees by conducting transactions outside the Platform\n- Scrape or harvest data without authorization\n- Impersonate another person or entity\n- Upload malicious code or content"
+      },
+      {
+        "title": "7. Intellectual Property",
+        "content": "The Platform is owned by SultanaExpress and protected by intellectual property laws. Content you submit remains your property, but you grant SultanaExpress a non-exclusive license to use, display, and distribute it on the Platform."
+      },
+      {
+        "title": "8. Limitation of Liability",
+        "content": "SultanaExpress is a marketplace facilitator. We are not liable for the quality, safety, or legality of products listed on the Platform, the accuracy of listings, or the ability of parties to perform their obligations. Our total liability shall not exceed the fees you paid in the 12 months preceding the claim."
+      },
+      {
+        "title": "9. Dispute Resolution",
+        "content": "SultanaExpress may offer mediation services for disputes between buyers and suppliers but is not obligated to do so. Disputes between you and SultanaExpress shall be governed by the laws of the Republic of Turkey and resolved in the courts of Istanbul."
+      },
+      {
+        "title": "10. Termination",
+        "content": "You may terminate your account at any time. We may suspend or terminate accounts that violate these Terms. Upon termination, your right to use the Platform ceases, outstanding obligations remain due, and data may be retained as required by law."
+      },
+      {
+        "title": "11. Modifications to Terms",
+        "content": "We may update these Terms from time to time. Material changes will be communicated at least 30 days before taking effect. Continued use constitutes acceptance of the updated Terms."
+      },
+      {
+        "title": "12. Contact",
+        "content": "For questions about these Terms:\n\n- Email: sc@sultana.express\n- Address: Istanbul, Turkey"
+      }
+    ]
+  },
+  "cookiesPage": {
+    "metaTitle": "Cookie Policy — SultanaExpress",
+    "metaDescription": "SultanaExpress Cookie Policy — how we use cookies and similar technologies.",
+    "badge": "Legal",
+    "title": "Cookie Policy",
+    "subtitle": "How we use cookies and similar technologies on our platform.",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "title": "1. What Are Cookies?",
+        "content": "Cookies are small text files stored on your device when you visit a website. They help the website remember your preferences and improve your experience."
+      },
+      {
+        "title": "2. Cookies We Use",
+        "content": "**Essential Cookies** — Required for the Platform to function properly. These include session management, authentication, and security cookies. You cannot opt out of essential cookies.\n\n**Preference Cookies** — Remember your settings such as language preference, display options, and region. These enhance your experience but are not strictly necessary.\n\n**Analytics Cookies** — Help us understand how visitors use our Platform. We use this data to improve our services. Analytics data is aggregated and anonymized.\n\n**Marketing Cookies** — Used to deliver relevant advertisements and track campaign effectiveness. We only use marketing cookies with your explicit consent."
+      },
+      {
+        "title": "3. Managing Cookies",
+        "content": "You can manage your cookie preferences through:\n\n- **Browser Settings:** Most browsers allow you to block or delete cookies\n- **Our Cookie Banner:** Displayed on your first visit, allowing you to choose which non-essential cookies to accept\n\nNote: Disabling essential cookies may affect Platform functionality."
+      },
+      {
+        "title": "4. Third-Party Cookies",
+        "content": "Some cookies are placed by third-party services we use, including analytics providers and payment processors. These are governed by the respective third party's privacy policy."
+      },
+      {
+        "title": "5. Updates to This Policy",
+        "content": "We may update this Cookie Policy from time to time. The \"Last updated\" date reflects the most recent revision."
+      },
+      {
+        "title": "6. Contact",
+        "content": "For questions about our use of cookies:\n\n- Email: sc@sultana.express\n- Address: Istanbul, Turkey"
+      }
+    ]
+  },
+  "blogPage": {
+    "metaTitle": "Blog — SultanaExpress",
+    "metaDescription": "Sourcing guides, industry insights, and trade tips from SultanaExpress. Learn about Turkish textile manufacturing and B2B sourcing best practices.",
+    "badge": "Blog",
+    "title": "Sourcing Insights & Industry Guides",
+    "subtitle": "Expert guides on Turkish textile sourcing, industry trends, and B2B trade best practices.",
+    "readMore": "Read More",
+    "minRead": "min read",
+    "categories": {
+      "all": "All",
+      "sourcingGuides": "Sourcing Guides",
+      "industryTrends": "Industry Trends",
+      "platformTips": "Platform Tips",
+      "certifications": "Certifications"
+    },
+    "posts": [
+      {
+        "slug": "how-to-source-cotton-tshirts-from-turkey",
+        "title": "How to Source Cotton T-Shirts from Turkey: A Complete Guide",
+        "excerpt": "Everything you need to know about sourcing quality cotton t-shirts from Turkish manufacturers — from fabric selection to shipping logistics.",
+        "category": "sourcingGuides",
+        "readTime": 8,
+        "date": "2026-03-15",
+        "author": "SultanaExpress Team"
+      },
+      {
+        "slug": "turkey-vs-china-textile-sourcing-2026",
+        "title": "Turkey vs China for Textile Sourcing: 2026 Comparison",
+        "excerpt": "An in-depth comparison of Turkey and China as textile sourcing destinations — pricing, lead times, quality standards, and logistics.",
+        "category": "industryTrends",
+        "readTime": 12,
+        "date": "2026-03-10",
+        "author": "SultanaExpress Team"
+      },
+      {
+        "slug": "what-is-oeko-tex-100",
+        "title": "What is OEKO-TEX 100 and Why Should You Care?",
+        "excerpt": "Understanding the OEKO-TEX Standard 100 certification — what it tests for, why it matters, and how to verify your supplier's certification.",
+        "category": "certifications",
+        "readTime": 6,
+        "date": "2026-03-05",
+        "author": "SultanaExpress Team"
+      },
+      {
+        "slug": "understanding-moq-buyers-guide",
+        "title": "Understanding MOQ: A Buyer's Guide to Minimum Order Quantities",
+        "excerpt": "What MOQ means, how it's determined, and strategies for negotiating minimum order quantities with Turkish textile manufacturers.",
+        "category": "sourcingGuides",
+        "readTime": 7,
+        "date": "2026-02-28",
+        "author": "SultanaExpress Team"
+      }
+    ]
+  },
+  "caseStudiesPage": {
+    "metaTitle": "Case Studies — SultanaExpress",
+    "metaDescription": "Success stories from buyers and suppliers using SultanaExpress to transform their sourcing and export operations.",
+    "badge": "Case Studies",
+    "title": "Success Stories from Our Partners",
+    "subtitle": "See how buyers and suppliers are using SultanaExpress to grow their business.",
+    "viewStudy": "View Case Study",
+    "results": "Key Results",
+    "comingSoon": "More case studies coming soon as our partners share their success stories.",
+    "studies": [
+      {
+        "slug": "european-retailer-textile-sourcing",
+        "title": "How a European Retailer Cut Sourcing Costs by 35%",
+        "excerpt": "A mid-sized European fashion retailer replaced their traditional sourcing process with SultanaExpress and reduced costs while improving quality consistency.",
+        "industry": "Fashion Retail",
+        "stats": [
+          { "value": "35%", "label": "Cost Reduction" },
+          { "value": "3x", "label": "Faster Sourcing" },
+          { "value": "12", "label": "New Suppliers Found" }
+        ]
+      },
+      {
+        "slug": "turkish-manufacturer-global-expansion",
+        "title": "Turkish Manufacturer Expands to 15 New Markets",
+        "excerpt": "A family-owned textile manufacturer in Istanbul used SultanaExpress to reach international buyers without the cost of trade shows.",
+        "industry": "Textile Manufacturing",
+        "stats": [
+          { "value": "15", "label": "New Markets" },
+          { "value": "200%", "label": "Export Growth" },
+          { "value": "€0", "label": "Trade Show Costs" }
+        ]
+      }
+    ]
+  }
+}
