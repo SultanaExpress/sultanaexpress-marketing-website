@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
-import { supabase } from "@/lib/supabase";
+import { getSupabase } from "@/lib/supabase";
 
 const subscribeSchema = z.object({
   email: z.string().email("Invalid email address"),
@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
 
     const { email, locale, source } = parsed.data;
 
-    const { error } = await supabase
+    const { error } = await getSupabase()
       .from("email_subscribers")
       .insert({ email, locale, source });
 
