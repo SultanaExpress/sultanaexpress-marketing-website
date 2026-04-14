@@ -6,7 +6,6 @@ import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { AnimateOnScroll } from "@/components/ui/AnimateOnScroll";
 import { breadcrumbJsonLd } from "@/lib/jsonld";
-import { CommissionCalculator } from "./CommissionCalculator";
 import { PricingFAQ } from "./PricingFAQ";
 
 interface PricingTier {
@@ -28,7 +27,7 @@ const FEATURE_KEYS = [
   "analytics",
   "supplierProfile",
   "accountManager",
-  "commission",
+  "aiTranslation",
   "support",
   "priorityListing",
   "marketIntel",
@@ -92,12 +91,20 @@ function PricingCard({
           <h3 className="mb-1 text-lg font-semibold text-text-primary">
             {tier.name}
           </h3>
-          <div className="flex items-baseline gap-1">
-            <span className="text-4xl font-extrabold tracking-tight text-text-primary">
-              {tier.price}
-            </span>
-            <span className="text-text-muted">{tier.period}</span>
-          </div>
+          {tier.price === "Coming Soon" || tier.price === "Yakında" ? (
+            <div className="flex items-baseline gap-1">
+              <span className="inline-block rounded-full bg-brand-100 px-4 py-1.5 text-sm font-bold text-brand-600">
+                {tier.price}
+              </span>
+            </div>
+          ) : (
+            <div className="flex items-baseline gap-1">
+              <span className="text-4xl font-extrabold tracking-tight text-text-primary">
+                {tier.price}
+              </span>
+              {tier.period && <span className="text-text-muted">{tier.period}</span>}
+            </div>
+          )}
           <p className="mt-2 text-sm text-text-secondary">{tier.subtitle}</p>
         </div>
 
@@ -184,17 +191,6 @@ export default async function PricingPage({
     answer: string;
   }>;
 
-  const calculatorTranslations = {
-    calculatorTitle: t("calculatorTitle"),
-    calculatorDescription: t("calculatorDescription"),
-    calculatorMonthlyVolume: t("calculatorMonthlyVolume"),
-    calculatorPlanLabel: t("calculatorPlanLabel"),
-    calculatorCommission: t("calculatorCommission"),
-    calculatorSubscription: t("calculatorSubscription"),
-    calculatorTotal: t("calculatorTotal"),
-    calculatorSavings: t("calculatorSavings"),
-  };
-
   // JSON-LD structured data for pricing tiers
   const pricingJsonLd = {
     "@context": "https://schema.org",
@@ -202,18 +198,6 @@ export default async function PricingPage({
     name: t("metaTitle"),
     description: t("metaDescription"),
     url: `https://sultana.express/${locale}/pricing`,
-    mainEntity: tiers.map((tier) => ({
-      "@type": "Offer",
-      name: tier.name,
-      price: tier.price.replace("$", ""),
-      priceCurrency: "USD",
-      description: tier.subtitle,
-      eligibleDuration: {
-        "@type": "QuantitativeValue",
-        value: 1,
-        unitCode: "MON",
-      },
-    })),
   };
 
   const breadcrumbs = breadcrumbJsonLd([
@@ -317,11 +301,6 @@ export default async function PricingPage({
             </table>
           </div>
         </AnimateOnScroll>
-      </SectionWrapper>
-
-      {/* Commission Calculator */}
-      <SectionWrapper variant="white">
-        <CommissionCalculator translations={calculatorTranslations} />
       </SectionWrapper>
 
       {/* Pricing FAQ */}

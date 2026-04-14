@@ -199,56 +199,55 @@
   },
   "pricing": {
     "badge": "Fiyatlandırma",
-    "title": "Şeffaf Fiyatlandırma. Gizli Ücret Yok.",
-    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium özellikler ve daha yüksek görünürlük için yükseltin.",
+    "title": "Üç Plan. Tek Hedef: Büyümeniz.",
+    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium plan fiyatları yakında açıklanacak.",
     "tiers": [
       {
-        "name": "Ücretsiz",
-        "price": "₺0",
-        "period": "/ ay",
+        "name": "Başlangıç",
+        "price": "Ücretsiz",
+        "period": "",
         "subtitle": "Başlamak için ideal",
         "features": [
           "Tüm ürünlere ve tedarikçilere göz atın",
           "Ayda 3 teklif talebi oluşturun",
           "Temel mesajlaşma",
           "Standart tedarikçi profili",
-          "%5 platform komisyonu",
           "E-posta desteği"
         ],
-        "cta": "Sonsuza Kadar Ücretsiz Başlayın",
+        "cta": "Ücretsiz Başlayın",
         "featured": false
       },
       {
-        "name": "Gümüş",
-        "price": "$49",
-        "period": "/ ay",
+        "name": "Büyüme",
+        "price": "Yakında",
+        "period": "",
         "subtitle": "Büyüyen işletmeler için",
         "popular": "En Popüler",
         "features": [
-          "Ücretsiz plandaki her şey, artı:",
+          "Başlangıç planındaki her şey, artı:",
           "Sınırsız teklif talebi",
           "Teklif karşılaştırma matrisi",
+          "Yapay zeka destekli mesaj çevirisi",
           "Analitikli gelişmiş profil",
-          "%3 platform komisyonu",
           "Öncelikli destek"
         ],
-        "cta": "Gümüş'ü 14 Gün Ücretsiz Deneyin",
+        "cta": "Bekleme Listesine Katılın",
         "featured": true
       },
       {
-        "name": "Altın",
-        "price": "$149",
-        "period": "/ ay",
+        "name": "Kurumsal",
+        "price": "Yakında",
+        "period": "",
         "subtitle": "Güçlü tüccarlar için",
         "features": [
-          "Gümüş plandaki her şey, artı:",
+          "Büyüme planındaki her şey, artı:",
           "Özel hesap yöneticisi",
           "Gelişmiş analitik ve pazar istihbaratı",
+          "Yapay zeka ürün açıklamaları ve SEO",
           "Platin tedarikçi rozeti",
-          "%1 platform komisyonu",
           "Telefon ve canlı sohbet desteği"
         ],
-        "cta": "Ekibimizle Konuşun",
+        "cta": "Bize Ulaşın",
         "featured": false
       }
     ]
@@ -353,10 +352,10 @@
   },
   "pricingPage": {
     "metaTitle": "Fiyatlandırma — SultanaExpress",
-    "metaDescription": "Alıcılar ve tedarikçiler için şeffaf fiyatlandırma. Ücretsiz kayıt, komisyon tabanlı model, gizli ücret yok.",
+    "metaDescription": "Alıcılar ve tedarikçiler için ücretsiz kayıt. Yapay zeka destekli premium planlar yakında.",
     "badge": "Fiyat Planları",
     "title": "İşletmenize Uygun Planı Seçin",
-    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium özellikler, düşük komisyon ve daha yüksek görünürlük için yükseltin.",
+    "subtitle": "Hem alıcılar hem de tedarikçiler için ücretsiz kayıt. Premium plan fiyatları yakında açıklanacak.",
     "comparisonTitle": "Detaylı Özellik Karşılaştırması",
     "features": {
       "productBrowsing": "Ürün ve Tedarikçi Tarama",
@@ -366,7 +365,7 @@
       "analytics": "Analitik Paneli",
       "supplierProfile": "Tedarikçi Profili",
       "accountManager": "Özel Hesap Yöneticisi",
-      "commission": "Platform Komisyonu",
+      "aiTranslation": "Yapay Zeka Destekli Çeviri",
       "support": "Destek Seviyesi",
       "priorityListing": "Öncelikli Listeleme",
       "marketIntel": "Pazar İstihbarat Raporları",
@@ -381,7 +380,7 @@
         "analytics": "Temel",
         "supplierProfile": "Standart",
         "accountManager": "Hayır",
-        "commission": "%5",
+        "aiTranslation": "Hayır",
         "support": "E-posta",
         "priorityListing": "Hayır",
         "marketIntel": "Hayır",
@@ -395,7 +394,7 @@
         "analytics": "Gelişmiş",
         "supplierProfile": "Gelişmiş + Analitik",
         "accountManager": "Hayır",
-        "commission": "%3",
+        "aiTranslation": "Mesajlar",
         "support": "Öncelikli E-posta",
         "priorityListing": "Evet",
         "marketIntel": "Aylık",
@@ -409,21 +408,13 @@
         "analytics": "Gelişmiş + Dışa Aktarım",
         "supplierProfile": "Platin Rozet",
         "accountManager": "Evet",
-        "commission": "%1",
+        "aiTranslation": "Mesajlar + Açıklamalar",
         "support": "Telefon + Canlı Sohbet",
         "priorityListing": "Öne Çıkan",
         "marketIntel": "Haftalık + Özel",
         "apiAccess": "Evet"
       }
     },
-    "calculatorTitle": "Komisyon Hesaplayıcı",
-    "calculatorDescription": "Aylık işlem hacminize göre her planla ne kadar tasarruf ettiğinizi görün.",
-    "calculatorMonthlyVolume": "Aylık İşlem Hacmi",
-    "calculatorPlanLabel": "Plan",
-    "calculatorCommission": "Komisyon",
-    "calculatorSubscription": "Abonelik",
-    "calculatorTotal": "Toplam Maliyet",
-    "calculatorSavings": "Ücretsiz plana göre {amount} tasarruf ediyorsunuz",
     "pricingFaq": {
       "title": "Fiyatlandırma SSS",
       "items": [
@@ -432,16 +423,16 @@
           "answer": "Evet, planınızı istediğiniz zaman yükseltebilir veya düşürebilirsiniz. Yükseltmede yeni özellikler hemen etkinleşir. Düşürmede mevcut özellikleriniz fatura döneminin sonuna kadar devam eder."
         },
         {
-          "question": "Ücretli planlar için ücretsiz deneme var mı?",
-          "answer": "Evet! Gümüş plan 14 günlük ücretsiz deneme ile gelir. Altın plan, taahhüt etmeden önce ekibimizle kişiselleştirilmiş bir demo içerir."
+          "question": "Ücretli plan fiyatları ne zaman açıklanacak?",
+          "answer": "Büyüme ve Kurumsal planlarımızın fiyatlarını belirliyoruz. Bekleme listesine katılarak fiyatları ilk öğrenen siz olun ve erken kayıt avantajlarından yararlanın."
         },
         {
-          "question": "Platform komisyonu nasıl hesaplanır?",
-          "answer": "Komisyon, platform üzerinden bir sipariş tamamlandığında toplam işlem değerinin yüzdesi olarak uygulanır. Ödeme sırasında otomatik olarak hesaplanır ve düşülür."
+          "question": "Hangi yapay zeka özellikleri dahil?",
+          "answer": "Büyüme planı, tedarikçilerle herhangi bir dilde iletişim kurmanızı sağlayan yapay zeka destekli mesaj çevirisi içerir. Kurumsal plan, yapay zeka ile ürün açıklamaları ve SEO optimizasyonu ekler."
         },
         {
           "question": "Gizli ücretler var mı?",
-          "answer": "Kesinlikle gizli ücret yoktur. Abonelik ücretiniz ve komisyon yüzdesi tek maliyetlerinizdir. Kargo ve lojistik maliyetleri ayrıdır ve şeffaftır."
+          "answer": "Kesinlikle gizli ücret yoktur. Başlangıç planı tamamen ücretsizdir. Ücretli plan maliyetleri lansmandan önce şeffaf bir şekilde duyurulacaktır."
         }
       ]
     }
@@ -573,7 +564,7 @@
       },
       {
         "title": "5. Ücretler ve Komisyonlar",
-        "content": "SultanaExpress ücretsiz ve ücretli abonelik seviyeleri sunar:\n\n- **Ücretsiz Seviye:** 0₺/ay, %5 platform komisyonu\n- **Gümüş Seviye:** $49/ay, %3 platform komisyonu\n- **Altın Seviye:** $149/ay, %1 platform komisyonu\n\nFiyatlandırmayı 30 gün önceden bildirimle değiştirme hakkını saklı tutarız."
+        "content": "SultanaExpress ücretsiz ve ücretli abonelik seviyeleri sunar. Başlangıç seviyesi ücretsizdir. Büyüme ve Kurumsal seviyelerin fiyatları yakında açıklanacaktır. Fiyatlandırmayı 30 gün önceden bildirimle değiştirme hakkını saklı tutarız."
       },
       {
         "title": "6. Kullanıcı Davranışı",

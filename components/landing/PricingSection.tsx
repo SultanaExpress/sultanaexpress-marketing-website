@@ -47,12 +47,20 @@ function PricingCard({
           <h3 className="mb-1 text-lg font-semibold text-text-primary">
             {tier.name}
           </h3>
-          <div className="flex items-baseline gap-1">
-            <span className="text-4xl font-extrabold tracking-tight text-text-primary">
-              {tier.price}
-            </span>
-            <span className="text-text-muted">{tier.period}</span>
-          </div>
+          {tier.price === "Coming Soon" || tier.price === "Yakında" ? (
+            <div className="flex items-baseline gap-1">
+              <span className="inline-block rounded-full bg-brand-100 px-4 py-1.5 text-sm font-bold text-brand-600">
+                {tier.price}
+              </span>
+            </div>
+          ) : (
+            <div className="flex items-baseline gap-1">
+              <span className="text-4xl font-extrabold tracking-tight text-text-primary">
+                {tier.price}
+              </span>
+              {tier.period && <span className="text-text-muted">{tier.period}</span>}
+            </div>
+          )}
           <p className="mt-2 text-sm text-text-secondary">{tier.subtitle}</p>
         </div>
 

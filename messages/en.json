@@ -199,56 +199,55 @@
   },
   "pricing": {
     "badge": "Pricing",
-    "title": "Transparent Pricing. No Hidden Fees.",
-    "subtitle": "Free registration for both buyers and suppliers. Upgrade for premium features and higher visibility.",
+    "title": "Three Plans. One Goal: Your Growth.",
+    "subtitle": "Free registration for both buyers and suppliers. Premium plans with pricing details coming soon.",
     "tiers": [
       {
-        "name": "Free",
-        "price": "$0",
-        "period": "/ month",
+        "name": "Starter",
+        "price": "Free",
+        "period": "",
         "subtitle": "Perfect for getting started",
         "features": [
           "Browse all products and suppliers",
           "Create up to 3 RFQs per month",
           "Basic messaging",
           "Standard supplier profile",
-          "5% platform commission",
           "Email support"
         ],
-        "cta": "Start Free Forever",
+        "cta": "Get Started Free",
         "featured": false
       },
       {
-        "name": "Silver",
-        "price": "$49",
-        "period": "/ month",
+        "name": "Growth",
+        "price": "Coming Soon",
+        "period": "",
         "subtitle": "For growing businesses",
         "popular": "Most Popular",
         "features": [
-          "Everything in Free, plus:",
+          "Everything in Starter, plus:",
           "Unlimited RFQs",
           "Quote comparison matrix",
+          "AI-powered translation for messages",
           "Enhanced profile with analytics",
-          "3% platform commission",
           "Priority support"
         ],
-        "cta": "Try Silver Free for 14 Days",
+        "cta": "Join Waitlist",
         "featured": true
       },
       {
-        "name": "Gold",
-        "price": "$149",
-        "period": "/ month",
+        "name": "Enterprise",
+        "price": "Coming Soon",
+        "period": "",
         "subtitle": "For power traders",
         "features": [
-          "Everything in Silver, plus:",
+          "Everything in Growth, plus:",
           "Dedicated account manager",
           "Advanced analytics & market intel",
+          "AI product descriptions & SEO",
           "Platinum supplier badge",
-          "1% platform commission",
           "Phone & live chat support"
         ],
-        "cta": "Talk to Our Team",
+        "cta": "Contact Us",
         "featured": false
       }
     ]
@@ -353,10 +352,10 @@
   },
   "pricingPage": {
     "metaTitle": "Pricing — SultanaExpress",
-    "metaDescription": "Transparent pricing for buyers and suppliers. Free registration, commission-based model, no hidden fees.",
+    "metaDescription": "Free registration for buyers and suppliers. Premium plans coming soon with AI-powered features.",
     "badge": "Pricing Plans",
     "title": "Choose the Plan That Fits Your Business",
-    "subtitle": "Free registration for both buyers and suppliers. Upgrade for premium features, lower commissions, and higher visibility.",
+    "subtitle": "Free registration for both buyers and suppliers. Premium plans with pricing details coming soon.",
     "comparisonTitle": "Detailed Feature Comparison",
     "features": {
       "productBrowsing": "Product & Supplier Browsing",
@@ -366,7 +365,7 @@
       "analytics": "Analytics Dashboard",
       "supplierProfile": "Supplier Profile",
       "accountManager": "Dedicated Account Manager",
-      "commission": "Platform Commission",
+      "aiTranslation": "AI-Powered Translation",
       "support": "Support Level",
       "priorityListing": "Priority Listing",
       "marketIntel": "Market Intelligence Reports",
@@ -381,7 +380,7 @@
         "analytics": "Basic",
         "supplierProfile": "Standard",
         "accountManager": "No",
-        "commission": "5%",
+        "aiTranslation": "No",
         "support": "Email",
         "priorityListing": "No",
         "marketIntel": "No",
@@ -395,7 +394,7 @@
         "analytics": "Enhanced",
         "supplierProfile": "Enhanced + Analytics",
         "accountManager": "No",
-        "commission": "3%",
+        "aiTranslation": "Messages",
         "support": "Priority Email",
         "priorityListing": "Yes",
         "marketIntel": "Monthly",
@@ -409,21 +408,13 @@
         "analytics": "Advanced + Exports",
         "supplierProfile": "Platinum Badge",
         "accountManager": "Yes",
-        "commission": "1%",
+        "aiTranslation": "Messages + Descriptions",
         "support": "Phone + Live Chat",
         "priorityListing": "Featured",
         "marketIntel": "Weekly + Custom",
         "apiAccess": "Yes"
       }
     },
-    "calculatorTitle": "Commission Calculator",
-    "calculatorDescription": "See how much you save with each plan based on your monthly transaction volume.",
-    "calculatorMonthlyVolume": "Monthly Transaction Volume",
-    "calculatorPlanLabel": "Plan",
-    "calculatorCommission": "Commission",
-    "calculatorSubscription": "Subscription",
-    "calculatorTotal": "Total Cost",
-    "calculatorSavings": "You save {amount} vs Free plan",
     "pricingFaq": {
       "title": "Pricing FAQ",
       "items": [
@@ -432,16 +423,16 @@
           "answer": "Yes, you can upgrade or downgrade your plan at any time. When upgrading, the new features take effect immediately. When downgrading, you'll keep your current features until the end of your billing cycle."
         },
         {
-          "question": "Is there a free trial for paid plans?",
-          "answer": "Yes! Silver plan comes with a 14-day free trial. Gold plan includes a personalized demo with our team before you commit."
+          "question": "When will paid plan pricing be announced?",
+          "answer": "We're finalizing pricing for our Growth and Enterprise plans. Join the waitlist to be the first to know when they launch, and to lock in early-adopter rates."
         },
         {
-          "question": "How is the platform commission calculated?",
-          "answer": "The commission is applied as a percentage of the total transaction value when an order is completed through the platform. It's automatically calculated and deducted at the time of payment."
+          "question": "What AI features are included?",
+          "answer": "Growth plans include AI-powered message translation so you can communicate with suppliers in any language. Enterprise adds AI-generated product descriptions and SEO optimization."
         },
         {
           "question": "Are there any hidden fees?",
-          "answer": "No hidden fees whatsoever. Your subscription fee and the commission percentage are the only costs. Shipping and logistics costs are separate and transparent."
+          "answer": "No hidden fees whatsoever. The Starter plan is completely free. Paid plan costs will be transparent and clearly communicated before launch."
         }
       ]
     }
@@ -573,7 +564,7 @@
       },
       {
         "title": "5. Fees and Commissions",
-        "content": "SultanaExpress offers free and paid subscription tiers:\n\n- **Free Tier:** $0/month with 5% platform commission\n- **Silver Tier:** $49/month with 3% platform commission\n- **Gold Tier:** $149/month with 1% platform commission\n\nWe reserve the right to modify pricing with 30 days' advance notice."
+        "content": "SultanaExpress offers free and paid subscription tiers. The Starter tier is free. Pricing for Growth and Enterprise tiers will be announced soon. We reserve the right to modify pricing with 30 days' advance notice."
       },
       {
         "title": "6. User Conduct",
